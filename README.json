@@ -19,7 +19,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16751
+            "stars": 16749
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2021-08-10T18:25:48Z",
             "owner": "chainer",
             "repo": "chainerrl",
-            "stars": 1199
+            "stars": 1198
           }
         },
         {
@@ -164,7 +164,7 @@
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14747
+                "stars": 14748
               }
             },
             {
@@ -258,7 +258,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16751
+            "stars": 16749
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2021-08-10T18:25:48Z",
             "owner": "chainer",
             "repo": "chainerrl",
-            "stars": 1199
+            "stars": 1198
           }
         },
         {
@@ -389,7 +389,7 @@
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14747
+                "stars": 14748
               }
             }
           ]
@@ -411,7 +411,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37241
+            "stars": 37239
           }
         },
         {
@@ -422,7 +422,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-14T00:36:00Z",
+            "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
             "stars": 19626
@@ -453,7 +453,7 @@
             "last_commit": "2023-01-04T15:38:37Z",
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7372
+            "stars": 7370
           }
         },
         {
@@ -481,7 +481,7 @@
             "last_commit": "2025-12-07T09:44:53Z",
             "owner": "opendilab",
             "repo": "DI-engine",
-            "stars": 3639
+            "stars": 3637
           }
         },
         {
@@ -495,7 +495,7 @@
             "last_commit": "2026-07-14T05:34:38Z",
             "owner": "tensorforce",
             "repo": "tensorforce",
-            "stars": 3306
+            "stars": 3305
           }
         },
         {
@@ -509,7 +509,7 @@
             "last_commit": "2022-12-08T18:07:05Z",
             "owner": "google-deepmind",
             "repo": "trfl",
-            "stars": 3132
+            "stars": 3131
           }
         },
         {
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T08:04:41.819Z",
+    "last_updated": "2026-08-15T07:18:09.672Z",
     "original_repository": "aikorea/awesome-rl",
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
     "enhanced_repository": "enhansome/enhansome-rl",
