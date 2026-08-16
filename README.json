@@ -47,7 +47,7 @@
             "last_commit": "2024-04-16T19:43:16Z",
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3444
+            "stars": 3445
           }
         },
         {
@@ -286,7 +286,7 @@
             "last_commit": "2024-04-16T19:43:16Z",
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3444
+            "stars": 3445
           }
         },
         {
@@ -425,7 +425,7 @@
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19626
+            "stars": 19627
           }
         },
         {
@@ -453,7 +453,7 @@
             "last_commit": "2023-01-04T15:38:37Z",
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7370
+            "stars": 7371
           }
         },
         {
@@ -551,7 +551,7 @@
             "last_commit": "2022-10-22T00:21:27Z",
             "owner": "geek-ai",
             "repo": "MAgent",
-            "stars": 1761
+            "stars": 1762
           }
         },
         {
@@ -576,7 +576,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-06-20T19:49:28Z",
+            "last_commit": "2026-08-15T10:36:29Z",
             "owner": "kengz",
             "repo": "SLM-Lab",
             "stars": 1362
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T07:18:09.672Z",
+    "last_updated": "2026-08-16T07:20:02.359Z",
     "original_repository": "aikorea/awesome-rl",
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
     "enhanced_repository": "enhansome/enhansome-rl",
