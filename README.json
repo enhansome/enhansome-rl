@@ -19,7 +19,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16749
+            "stars": 16751
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2026-06-12T03:36:43Z",
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3661
+            "stars": 3659
           }
         },
         {
@@ -164,7 +164,7 @@
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14748
+                "stars": 14750
               }
             },
             {
@@ -178,7 +178,7 @@
                 "last_commit": "2025-07-10T04:22:37Z",
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2428
+                "stars": 2427
               }
             },
             {
@@ -258,7 +258,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16749
+            "stars": 16751
           }
         },
         {
@@ -272,7 +272,7 @@
             "last_commit": "2026-06-12T03:36:43Z",
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3661
+            "stars": 3659
           }
         },
         {
@@ -389,7 +389,7 @@
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14748
+                "stars": 14750
               }
             }
           ]
@@ -411,7 +411,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37239
+            "stars": 37238
           }
         },
         {
@@ -425,7 +425,7 @@
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19627
+            "stars": 19628
           }
         },
         {
@@ -537,7 +537,7 @@
             "last_commit": "2026-08-13T04:24:18Z",
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2059
+            "stars": 2058
           }
         },
         {
@@ -551,7 +551,7 @@
             "last_commit": "2022-10-22T00:21:27Z",
             "owner": "geek-ai",
             "repo": "MAgent",
-            "stars": 1762
+            "stars": 1763
           }
         },
         {
@@ -682,7 +682,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:20:02.359Z",
+    "last_updated": "2026-08-17T07:40:24.001Z",
     "original_repository": "aikorea/awesome-rl",
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
     "enhanced_repository": "enhansome/enhansome-rl",
