@@ -15,7 +15,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16754
+            "stars": 16753
           }
         },
         {
@@ -185,7 +185,7 @@
                 "last_commit": "2025-07-10T04:22:37Z",
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2429
+                "stars": 2430
               }
             },
             {
@@ -266,7 +266,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16754
+            "stars": 16753
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19633
+            "stars": 19634
           }
         },
         {
@@ -459,7 +459,7 @@
             "last_commit": "2018-04-05T18:58:15Z",
             "owner": "openai",
             "repo": "universe",
-            "stars": 7495
+            "stars": 7494
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2023-01-04T15:38:37Z",
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7371
+            "stars": 7372
           }
         },
         {
@@ -707,8 +707,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T07:26:47.063Z",
+    "last_updated": "2026-08-19T12:53:05.053Z",
     "original_repository": "aikorea/awesome-rl",
+    "original_repository_id": 40465212,
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
     "enhanced_repository": "enhansome/enhansome-rl",
     "enhanced_repository_description": null,
