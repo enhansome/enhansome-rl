@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "Please feel free to pull requests",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92238803,
             "language": "Python",
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16752
+            "stars": 16754
           }
         },
         {
@@ -29,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78835091,
             "language": "Python",
             "last_commit": "2026-06-12T03:36:43Z",
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3658
+            "stars": 3657
           }
         },
         {
@@ -43,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88905488,
             "language": "Python",
             "last_commit": "2024-04-16T19:43:16Z",
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3445
+            "stars": 3446
           }
         },
         {
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80394882,
             "language": "Python",
             "last_commit": "2021-08-10T18:25:48Z",
             "owner": "chainer",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46150329,
             "language": "Jupyter Notebook",
             "last_commit": "2017-05-24T22:11:09Z",
             "owner": "siemanko",
@@ -85,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523628011,
             "language": "Python",
             "last_commit": "2026-08-04T14:33:41Z",
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 855
+            "stars": 856
           }
         },
         {
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 227923017,
             "language": "Go",
             "last_commit": "2020-10-22T15:14:02Z",
             "owner": "aunum",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52731535,
             "language": "Python",
             "last_commit": "2017-08-17T22:18:41Z",
             "owner": "yandexdataschool",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48294298,
             "language": "Lua",
             "last_commit": "2018-02-08T14:43:28Z",
             "owner": "Kaixhin",
@@ -141,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97598314,
             "language": "C++",
             "last_commit": "2021-11-17T16:51:33Z",
             "owner": "resibots",
@@ -160,6 +165,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 68125931,
                 "language": "Python",
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
@@ -174,11 +180,12 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 184111239,
                 "language": "Jupyter Notebook",
                 "last_commit": "2025-07-10T04:22:37Z",
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2428
+                "stars": 2429
               }
             },
             {
@@ -188,6 +195,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 163687983,
                 "language": "Julia",
                 "last_commit": "2024-03-27T01:16:25Z",
                 "owner": "JuliaReinforcementLearning",
@@ -201,51 +209,50 @@
       "title": "Codes"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Theory"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Konstantinos Chatzilygeroudis, Roberto Rama, Rituraj Kaushik et al, Black-Box Data-efficient Policy Search for Robotics (IROS 2017) [ArXiv",
+              "description": "] [Video] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 97598314,
+                "language": "C++",
+                "last_commit": "2021-11-17T16:51:33Z",
+                "owner": "resibots",
+                "repo": "blackdrops",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Antoine Cully, Jeff Clune, Danesh Tarapore and Jean-Baptiste Mouret, Robots that can adapt like animals (Nature 2015) [ArXiv",
+              "description": "] [Video] [Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48301081,
+                "language": "Shell",
+                "last_commit": "2018-10-24T13:50:03Z",
+                "owner": "resibots",
+                "repo": "cully_2015_nature",
+                "stars": 36
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Robotics"
+        }
+      ],
       "title": "Applications"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Konstantinos Chatzilygeroudis, Roberto Rama, Rituraj Kaushik et al, Black-Box Data-efficient Policy Search for Robotics (IROS 2017) [ArXiv",
-          "description": "] [Video] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2021-11-17T16:51:33Z",
-            "owner": "resibots",
-            "repo": "blackdrops",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Antoine Cully, Jeff Clune, Danesh Tarapore and Jean-Baptiste Mouret, Robots that can adapt like animals (Nature 2015) [ArXiv",
-          "description": "] [Video] [Code]",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2018-10-24T13:50:03Z",
-            "owner": "resibots",
-            "repo": "cully_2015_nature",
-            "stars": 36
-          }
-        }
-      ],
-      "title": "Robotics"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -254,11 +261,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92238803,
             "language": "Python",
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16752
+            "stars": 16754
           }
         },
         {
@@ -268,11 +276,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 78835091,
             "language": "Python",
             "last_commit": "2026-06-12T03:36:43Z",
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3658
+            "stars": 3657
           }
         },
         {
@@ -282,11 +291,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 88905488,
             "language": "Python",
             "last_commit": "2024-04-16T19:43:16Z",
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3445
+            "stars": 3446
           }
         },
         {
@@ -296,6 +306,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 80394882,
             "language": "Python",
             "last_commit": "2021-08-10T18:25:48Z",
             "owner": "chainer",
@@ -310,6 +321,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46150329,
             "language": "Jupyter Notebook",
             "last_commit": "2017-05-24T22:11:09Z",
             "owner": "siemanko",
@@ -324,11 +336,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523628011,
             "language": "Python",
             "last_commit": "2026-08-04T14:33:41Z",
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 855
+            "stars": 856
           }
         },
         {
@@ -338,6 +351,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52731535,
             "language": "Python",
             "last_commit": "2017-08-17T22:18:41Z",
             "owner": "yandexdataschool",
@@ -352,6 +366,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48294298,
             "language": "Lua",
             "last_commit": "2018-02-08T14:43:28Z",
             "owner": "Kaixhin",
@@ -366,6 +381,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97598314,
             "language": "C++",
             "last_commit": "2021-11-17T16:51:33Z",
             "owner": "resibots",
@@ -385,6 +401,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 68125931,
                 "language": "Python",
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
@@ -398,7 +415,7 @@
       "title": "Codes"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -407,11 +424,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 57222302,
             "language": "Python",
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37237
+            "stars": 37240
           }
         },
         {
@@ -421,11 +439,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102904613,
             "language": "C#",
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19630
+            "stars": 19633
           }
         },
         {
@@ -435,11 +454,12 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75566993,
             "language": "Python",
             "last_commit": "2018-04-05T18:58:15Z",
             "owner": "openai",
             "repo": "universe",
-            "stars": 7496
+            "stars": 7495
           }
         },
         {
@@ -449,6 +469,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75190475,
             "language": "C",
             "last_commit": "2023-01-04T15:38:37Z",
             "owner": "google-deepmind",
@@ -462,7 +483,8 @@
           "description": "A platform for Artificial Intelligence experimentation and research built on top of Minecraft by Microsoft",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
+            "id": 59032201,
             "language": "Java",
             "last_commit": "2025-09-03T13:10:21Z",
             "owner": "microsoft",
@@ -477,6 +499,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 382787545,
             "language": "Python",
             "last_commit": "2025-12-07T09:44:53Z",
             "owner": "opendilab",
@@ -491,6 +514,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 85491050,
             "language": "Python",
             "last_commit": "2026-07-14T05:34:38Z",
             "owner": "tensorforce",
@@ -505,6 +529,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144027556,
             "language": "Python",
             "last_commit": "2022-12-08T18:07:05Z",
             "owner": "google-deepmind",
@@ -519,11 +544,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 136846372,
             "language": "Python",
             "last_commit": "2023-05-04T14:44:22Z",
             "owner": "rlworkgroup",
             "repo": "garage",
-            "stars": 2123
+            "stars": 2124
           }
         },
         {
@@ -533,6 +559,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38127500,
             "language": "C++",
             "last_commit": "2026-08-13T04:24:18Z",
             "owner": "Farama-Foundation",
@@ -547,6 +574,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109678660,
             "language": "Python",
             "last_commit": "2022-10-22T00:21:27Z",
             "owner": "geek-ai",
@@ -561,6 +589,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 75440660,
             "language": "C++",
             "last_commit": "2021-08-30T19:19:38Z",
             "owner": "TorchCraft",
@@ -575,11 +604,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 105591065,
             "language": "Python",
-            "last_commit": "2026-08-15T10:36:29Z",
+            "last_commit": "2026-08-18T11:12:28Z",
             "owner": "kengz",
             "repo": "SLM-Lab",
-            "stars": 1362
+            "stars": 1363
           }
         },
         {
@@ -589,11 +619,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 523628011,
             "language": "Python",
             "last_commit": "2026-08-04T14:33:41Z",
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 855
+            "stars": 856
           }
         },
         {
@@ -603,6 +634,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 52974041,
             "language": "C++",
             "last_commit": "2017-12-20T16:25:42Z",
             "owner": "facebookarchive",
@@ -617,6 +649,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65353367,
             "language": "Python",
             "last_commit": "2018-02-09T04:30:18Z",
             "owner": "kengz",
@@ -631,6 +664,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 67107342,
             "language": "Lua",
             "last_commit": "2017-05-27T16:04:02Z",
             "owner": "twitter-archive",
@@ -645,6 +679,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45974977,
             "language": "C++",
             "last_commit": "2018-06-06T09:52:54Z",
             "owner": "nadavbh12",
@@ -659,30 +694,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 578577712,
             "language": null,
             "last_commit": "2022-05-23T13:10:46Z",
             "owner": "matthiasplappert",
             "repo": "keras-rl",
             "stars": 12
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Intel Coach",
-          "description": "Coach is a python reinforcement learning research framework containing implementation of many state-of-the-art algorithms.",
-          "children": []
         }
       ],
       "title": "Open Source Reinforcement Learning Platforms"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "valuable Contributors👩‍💻👨‍💻 :"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T07:26:29.227Z",
+    "last_updated": "2026-08-19T07:26:47.063Z",
     "original_repository": "aikorea/awesome-rl",
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
     "enhanced_repository": "enhansome/enhansome-rl",
