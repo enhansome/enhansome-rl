@@ -45,7 +45,7 @@
             "last_commit": "2024-04-16T19:43:16Z",
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3446
+            "stars": 3447
           }
         },
         {
@@ -296,7 +296,7 @@
             "last_commit": "2024-04-16T19:43:16Z",
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3446
+            "stars": 3447
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37240
+            "stars": 37239
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19634
+            "stars": 19638
           }
         },
         {
@@ -474,7 +474,7 @@
             "last_commit": "2023-01-04T15:38:37Z",
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7372
+            "stars": 7373
           }
         },
         {
@@ -504,7 +504,7 @@
             "last_commit": "2025-12-07T09:44:53Z",
             "owner": "opendilab",
             "repo": "DI-engine",
-            "stars": 3639
+            "stars": 3638
           }
         },
         {
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:53:05.053Z",
+    "last_updated": "2026-08-20T07:29:34.487Z",
     "original_repository": "aikorea/awesome-rl",
     "original_repository_id": 40465212,
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
