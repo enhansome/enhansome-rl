@@ -15,7 +15,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16758
+            "stars": 16761
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-12T03:36:43Z",
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3658
+            "stars": 3657
           }
         },
         {
@@ -87,10 +87,10 @@
             "archived": false,
             "id": 523628011,
             "language": "Python",
-            "last_commit": "2026-08-04T14:33:41Z",
+            "last_commit": "2026-08-21T23:04:26Z",
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 856
+            "stars": 857
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2021-11-17T16:51:33Z",
             "owner": "resibots",
             "repo": "blackdrops",
-            "stars": 66
+            "stars": 65
           }
         },
         {
@@ -225,7 +225,7 @@
                 "last_commit": "2021-11-17T16:51:33Z",
                 "owner": "resibots",
                 "repo": "blackdrops",
-                "stars": 66
+                "stars": 65
               }
             },
             {
@@ -266,7 +266,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16758
+            "stars": 16761
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2026-06-12T03:36:43Z",
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3658
+            "stars": 3657
           }
         },
         {
@@ -338,10 +338,10 @@
             "archived": false,
             "id": 523628011,
             "language": "Python",
-            "last_commit": "2026-08-04T14:33:41Z",
+            "last_commit": "2026-08-21T23:04:26Z",
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 856
+            "stars": 857
           }
         },
         {
@@ -386,7 +386,7 @@
             "last_commit": "2021-11-17T16:51:33Z",
             "owner": "resibots",
             "repo": "blackdrops",
-            "stars": 66
+            "stars": 65
           }
         },
         {
@@ -429,7 +429,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37240
+            "stars": 37246
           }
         },
         {
@@ -444,7 +444,7 @@
             "last_commit": "2026-08-14T19:19:50Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19641
+            "stars": 19645
           }
         },
         {
@@ -489,7 +489,7 @@
             "last_commit": "2025-09-03T13:10:21Z",
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4270
+            "stars": 4271
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2023-05-04T14:44:22Z",
             "owner": "rlworkgroup",
             "repo": "garage",
-            "stars": 2124
+            "stars": 2125
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-21T07:29:58Z",
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2060
+            "stars": 2062
           }
         },
         {
@@ -621,10 +621,10 @@
             "archived": false,
             "id": 523628011,
             "language": "Python",
-            "last_commit": "2026-08-04T14:33:41Z",
+            "last_commit": "2026-08-21T23:04:26Z",
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 856
+            "stars": 857
           }
         },
         {
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T07:31:25.320Z",
+    "last_updated": "2026-08-22T07:20:39.588Z",
     "original_repository": "aikorea/awesome-rl",
     "original_repository_id": 40465212,
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
