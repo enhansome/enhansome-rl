@@ -170,7 +170,7 @@
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14752
+                "stars": 14753
               }
             },
             {
@@ -406,7 +406,7 @@
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14752
+                "stars": 14753
               }
             }
           ]
@@ -429,7 +429,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37248
+            "stars": 37249
           }
         },
         {
@@ -549,7 +549,7 @@
             "last_commit": "2023-05-04T14:44:22Z",
             "owner": "rlworkgroup",
             "repo": "garage",
-            "stars": 2124
+            "stars": 2126
           }
         },
         {
@@ -609,7 +609,7 @@
             "last_commit": "2026-08-20T22:18:32Z",
             "owner": "kengz",
             "repo": "SLM-Lab",
-            "stars": 1363
+            "stars": 1362
           }
         },
         {
@@ -707,7 +707,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T07:22:22.729Z",
+    "last_updated": "2026-08-24T07:45:35.584Z",
     "original_repository": "aikorea/awesome-rl",
     "original_repository_id": 40465212,
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
