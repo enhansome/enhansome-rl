@@ -15,7 +15,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16763
+            "stars": 16762
           }
         },
         {
@@ -215,6 +215,78 @@
           "children": [
             {
               "node_type": "item",
+              "title": "[UCL] COMPMI22/COMPGI22 - Advanced Deep Learning and Reinforcement Learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 158984040,
+                "language": null,
+                "last_commit": "2019-06-20T15:18:07Z",
+                "owner": "enggen",
+                "repo": "DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning",
+                "stars": 863
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Lectures"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd Edition, in progress, 2018) [Book]",
+              "description": "[Code]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68125931,
+                "language": "Python",
+                "last_commit": "2024-08-09T01:09:15Z",
+                "owner": "ShangtongZhang",
+                "repo": "reinforcement-learning-an-introduction",
+                "stars": 14753
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        }
+      ],
+      "title": "Theory"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flappy Bird - Sarvagya Vaish, Flappy Bird Reinforcement Learning",
+              "description": "[Video]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16866812,
+                "language": "JavaScript",
+                "last_commit": "2017-11-15T16:46:59Z",
+                "owner": "SarvagyaVaish",
+                "repo": "FlappyBirdRL",
+                "stars": 919
+              }
+            }
+          ],
+          "description": "Traditional Games\nComputer Games",
+          "node_type": "group",
+          "title": "Game Playing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Konstantinos Chatzilygeroudis, Roberto Rama, Rituraj Kaushik et al, Black-Box Data-efficient Policy Search for Robotics (IROS 2017) [ArXiv",
               "description": "] [Video] [Code]",
               "children": [],
@@ -266,7 +338,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16763
+            "stars": 16762
           }
         },
         {
@@ -419,6 +491,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Practical_RL",
+          "description": "github-based course in reinforcement learning in the wild (lectures, coding labs, projects)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79821807,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-31T20:00:24Z",
+            "owner": "yandexdataschool",
+            "repo": "Practical_RL",
+            "stars": 6559
+          }
+        }
+      ],
+      "title": "Tutorials / Websites"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deep Q-Learning with Tensor Flow",
+          "description": "A deep Q learning demonstration using Google Tensorflow",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46150329,
+            "language": "Jupyter Notebook",
+            "last_commit": "2017-05-24T22:11:09Z",
+            "owner": "siemanko",
+            "repo": "tensorflow-deepq",
+            "stars": 1166
+          }
+        }
+      ],
+      "title": "Online Demos"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "OpenAI gym",
           "description": "A toolkit for developing and comparing reinforcement learning algorithms",
           "children": [],
@@ -429,7 +543,7 @@
             "last_commit": "2026-03-26T23:13:27Z",
             "owner": "openai",
             "repo": "gym",
-            "stars": 37249
+            "stars": 37250
           }
         },
         {
@@ -579,7 +693,7 @@
             "last_commit": "2022-10-22T00:21:27Z",
             "owner": "geek-ai",
             "repo": "MAgent",
-            "stars": 1763
+            "stars": 1762
           }
         },
         {
@@ -707,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T07:45:35.584Z",
+    "last_updated": "2026-08-24T13:51:54.608Z",
     "original_repository": "aikorea/awesome-rl",
     "original_repository_id": 40465212,
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
