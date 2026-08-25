@@ -603,7 +603,7 @@
             "last_commit": "2025-09-03T13:10:21Z",
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4271
+            "stars": 4270
           }
         },
         {
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:45:11.262Z",
+    "last_updated": "2026-08-25T07:32:53.633Z",
     "original_repository": "aikorea/awesome-rl",
     "original_repository_id": 40465212,
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
