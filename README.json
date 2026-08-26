@@ -15,7 +15,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16763
+            "stars": 16764
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-12T03:36:43Z",
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3657
+            "stars": 3658
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-24T16:00:06Z",
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 857
+            "stars": 858
           }
         },
         {
@@ -170,7 +170,7 @@
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14753
+                "stars": 14755
               }
             },
             {
@@ -247,7 +247,7 @@
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14753
+                "stars": 14755
               }
             }
           ],
@@ -338,7 +338,7 @@
             "last_commit": "2024-08-01T21:31:33Z",
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16763
+            "stars": 16764
           }
         },
         {
@@ -353,7 +353,7 @@
             "last_commit": "2026-06-12T03:36:43Z",
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3657
+            "stars": 3658
           }
         },
         {
@@ -413,7 +413,7 @@
             "last_commit": "2026-08-24T16:00:06Z",
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 857
+            "stars": 858
           }
         },
         {
@@ -478,7 +478,7 @@
                 "last_commit": "2024-08-09T01:09:15Z",
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14753
+                "stars": 14755
               }
             }
           ]
@@ -501,7 +501,7 @@
             "last_commit": "2026-03-31T20:00:24Z",
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6560
+            "stars": 6562
           }
         }
       ],
@@ -555,10 +555,10 @@
             "archived": false,
             "id": 102904613,
             "language": "C#",
-            "last_commit": "2026-08-14T19:19:50Z",
+            "last_commit": "2026-08-25T08:41:37Z",
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19642
+            "stars": 19644
           }
         },
         {
@@ -738,7 +738,7 @@
             "last_commit": "2026-08-24T16:00:06Z",
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 857
+            "stars": 858
           }
         },
         {
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T07:32:53.633Z",
+    "last_updated": "2026-08-26T07:34:37.179Z",
     "original_repository": "aikorea/awesome-rl",
     "original_repository_id": 40465212,
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
