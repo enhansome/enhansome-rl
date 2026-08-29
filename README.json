@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
+            "homepage": null,
             "id": 92238803,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-01T21:31:33Z",
+            "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16761
+            "stars": 16761,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -26,12 +31,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal and Clean Reinforcement Learning Examples",
+            "homepage": null,
             "id": 78835091,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-12T03:36:43Z",
+            "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3659
+            "stars": 3659,
+            "topics": [
+              "a3c",
+              "actor-critic",
+              "deep-learning",
+              "deep-q-network",
+              "deep-reinforcement-learning",
+              "dqn",
+              "machine-learning",
+              "policy-gradient",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -42,12 +62,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modularized Implementation of Deep RL Algorithms in PyTorch",
+            "homepage": null,
             "id": 88905488,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-16T19:43:16Z",
+            "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3448
+            "stars": 3449,
+            "topics": [
+              "a2c",
+              "categorical-dqn",
+              "ddpg",
+              "deep-reinforcement-learning",
+              "deeprl",
+              "double-dqn",
+              "dqn",
+              "dueling-network-architecture",
+              "option-critic",
+              "option-critic-architecture",
+              "ppo",
+              "prioritized-experience-replay",
+              "pytorch",
+              "quantile-regression",
+              "rainbow",
+              "td3"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -58,12 +100,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChainerRL is a deep reinforcement learning library built on top of Chainer.",
+            "homepage": null,
             "id": 80394882,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-10T18:25:48Z",
+            "open_issues": 65,
             "owner": "chainer",
             "repo": "chainerrl",
-            "stars": 1198
+            "stars": 1198,
+            "topics": [
+              "actor-critic",
+              "chainer",
+              "deep-learning",
+              "dqn",
+              "machine-learning",
+              "python",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -74,12 +129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deep Q learning demonstration using Google Tensorflow",
+            "homepage": null,
             "id": 46150329,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2017-05-24T22:11:09Z",
+            "open_issues": 6,
             "owner": "siemanko",
             "repo": "tensorflow-deepq",
-            "stars": 1166
+            "stars": 1166,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -90,12 +150,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕹️ A diverse suite of scalable reinforcement learning environments in JAX",
+            "homepage": "https://instadeepai.github.io/jumanji",
             "id": 523628011,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T16:00:06Z",
+            "open_issues": 27,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 858
+            "stars": 859,
+            "topics": [
+              "jax",
+              "python",
+              "reinforcement-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -106,12 +176,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reinforcement Learning in Go",
+            "homepage": null,
             "id": 227923017,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2020-10-22T15:14:02Z",
+            "open_issues": 7,
             "owner": "aunum",
             "repo": "gold",
-            "stars": 352
+            "stars": 352,
+            "topics": [
+              "go",
+              "golang",
+              "machine-learning",
+              "reinforcement-learning",
+              "reinforcementlearning"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -122,12 +203,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deep Reinforcement Learning library for humans",
+            "homepage": "http://agentnet.rtfd.org/",
             "id": 52731535,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-17T22:18:41Z",
+            "open_issues": 5,
             "owner": "yandexdataschool",
             "repo": "AgentNet",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "binder",
+              "deep-learning",
+              "deep-neural-networks",
+              "framework",
+              "lasagne",
+              "opeani-gym",
+              "qlearning",
+              "reinforcement-learning",
+              "theano"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -138,12 +234,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent advantage learning dueling double DQN for the Arcade Learning Environment",
+            "homepage": null,
             "id": 48294298,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-02-08T14:43:28Z",
+            "open_issues": 15,
             "owner": "Kaixhin",
             "repo": "Atari",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "deep-learning",
+              "deep-reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -154,12 +258,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the Black-DROPS algorithm: \"Black-Box Data-efficient Policy Search for Robotics\", IROS 2017/ICRA 2018",
+            "homepage": null,
             "id": 97598314,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-17T16:51:33Z",
+            "open_issues": 8,
             "owner": "resibots",
             "repo": "blackdrops",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -175,12 +284,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Implementation of Reinforcement Learning: An Introduction",
+                "homepage": null,
                 "id": 68125931,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-09T01:09:15Z",
+                "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14758
+                "stars": 14758,
+                "topics": [
+                  "artificial-intelligence",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
             },
@@ -191,12 +308,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Solutions of Reinforcement Learning, An Introduction",
+                "homepage": null,
                 "id": 184111239,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2025-07-10T04:22:37Z",
+                "open_issues": 23,
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2430
+                "stars": 2430,
+                "topics": [
+                  "exercise-solutions",
+                  "reinforcement-learning",
+                  "self-study",
+                  "solutions"
+                ]
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
             },
@@ -207,12 +334,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Julia code for the book  Reinforcement Learning An Introduction",
+                "homepage": "https://juliareinforcementlearning.org/ReinforcementLearningAnIntroduction.jl/",
                 "id": 163687983,
                 "language": "Julia",
+                "license": "MIT",
                 "last_commit": "2024-03-27T01:16:25Z",
+                "open_issues": 18,
                 "owner": "JuliaReinforcementLearning",
                 "repo": "ReinforcementLearningAnIntroduction.jl",
-                "stars": 331
+                "stars": 331,
+                "topics": [
+                  "julia",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
             }
@@ -233,12 +368,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Advanced Deep Learning and Reinforcement Learning course taught at UCL in partnership with Deepmind",
+                "homepage": null,
                 "id": 158984040,
                 "language": null,
+                "license": null,
                 "last_commit": "2019-06-20T15:18:07Z",
+                "open_issues": 3,
                 "owner": "enggen",
                 "repo": "DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning",
-                "stars": 863
+                "stars": 863,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
             }
@@ -256,12 +396,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Implementation of Reinforcement Learning: An Introduction",
+                "homepage": null,
                 "id": 68125931,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-09T01:09:15Z",
+                "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14758
+                "stars": 14758,
+                "topics": [
+                  "artificial-intelligence",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
             }
@@ -285,12 +433,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Flappy Bird hack using Reinforcement Learning",
+                "homepage": "http://SarvagyaVaish.github.io/FlappyBirdRL",
                 "id": 16866812,
                 "language": "JavaScript",
+                "license": null,
                 "last_commit": "2017-11-15T16:46:59Z",
+                "open_issues": 1,
                 "owner": "SarvagyaVaish",
                 "repo": "FlappyBirdRL",
-                "stars": 919
+                "stars": 919,
+                "topics": [
+                  "flappy-bird",
+                  "machine-learning",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
             }
@@ -308,12 +465,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the Black-DROPS algorithm: \"Black-Box Data-efficient Policy Search for Robotics\", IROS 2017/ICRA 2018",
+                "homepage": null,
                 "id": 97598314,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-17T16:51:33Z",
+                "open_issues": 8,
                 "owner": "resibots",
                 "repo": "blackdrops",
-                "stars": 65
+                "stars": 65,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
             },
@@ -324,12 +486,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Meta-repo for the code of Cully et. al., 2015",
+                "homepage": null,
                 "id": 48301081,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2018-10-24T13:50:03Z",
+                "open_issues": 2,
                 "owner": "resibots",
                 "repo": "cully_2015_nature",
-                "stars": 36
+                "stars": 36,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
             }
@@ -351,12 +518,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
+            "homepage": null,
             "id": 92238803,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-08-01T21:31:33Z",
+            "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16761
+            "stars": 16761,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -367,12 +539,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal and Clean Reinforcement Learning Examples",
+            "homepage": null,
             "id": 78835091,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-06-12T03:36:43Z",
+            "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3659
+            "stars": 3659,
+            "topics": [
+              "a3c",
+              "actor-critic",
+              "deep-learning",
+              "deep-q-network",
+              "deep-reinforcement-learning",
+              "dqn",
+              "machine-learning",
+              "policy-gradient",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -383,12 +570,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modularized Implementation of Deep RL Algorithms in PyTorch",
+            "homepage": null,
             "id": 88905488,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-16T19:43:16Z",
+            "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3448
+            "stars": 3449,
+            "topics": [
+              "a2c",
+              "categorical-dqn",
+              "ddpg",
+              "deep-reinforcement-learning",
+              "deeprl",
+              "double-dqn",
+              "dqn",
+              "dueling-network-architecture",
+              "option-critic",
+              "option-critic-architecture",
+              "ppo",
+              "prioritized-experience-replay",
+              "pytorch",
+              "quantile-regression",
+              "rainbow",
+              "td3"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -399,12 +608,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ChainerRL is a deep reinforcement learning library built on top of Chainer.",
+            "homepage": null,
             "id": 80394882,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-08-10T18:25:48Z",
+            "open_issues": 65,
             "owner": "chainer",
             "repo": "chainerrl",
-            "stars": 1198
+            "stars": 1198,
+            "topics": [
+              "actor-critic",
+              "chainer",
+              "deep-learning",
+              "dqn",
+              "machine-learning",
+              "python",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -415,12 +637,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deep Q learning demonstration using Google Tensorflow",
+            "homepage": null,
             "id": 46150329,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2017-05-24T22:11:09Z",
+            "open_issues": 6,
             "owner": "siemanko",
             "repo": "tensorflow-deepq",
-            "stars": 1166
+            "stars": 1166,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -431,12 +658,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕹️ A diverse suite of scalable reinforcement learning environments in JAX",
+            "homepage": "https://instadeepai.github.io/jumanji",
             "id": 523628011,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T16:00:06Z",
+            "open_issues": 27,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 858
+            "stars": 859,
+            "topics": [
+              "jax",
+              "python",
+              "reinforcement-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -447,12 +684,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deep Reinforcement Learning library for humans",
+            "homepage": "http://agentnet.rtfd.org/",
             "id": 52731535,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2017-08-17T22:18:41Z",
+            "open_issues": 5,
             "owner": "yandexdataschool",
             "repo": "AgentNet",
-            "stars": 299
+            "stars": 299,
+            "topics": [
+              "binder",
+              "deep-learning",
+              "deep-neural-networks",
+              "framework",
+              "lasagne",
+              "opeani-gym",
+              "qlearning",
+              "reinforcement-learning",
+              "theano"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -463,12 +715,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Persistent advantage learning dueling double DQN for the Arcade Learning Environment",
+            "homepage": null,
             "id": 48294298,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2018-02-08T14:43:28Z",
+            "open_issues": 15,
             "owner": "Kaixhin",
             "repo": "Atari",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "deep-learning",
+              "deep-reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -479,12 +739,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the Black-DROPS algorithm: \"Black-Box Data-efficient Policy Search for Robotics\", IROS 2017/ICRA 2018",
+            "homepage": null,
             "id": 97598314,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-17T16:51:33Z",
+            "open_issues": 8,
             "owner": "resibots",
             "repo": "blackdrops",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -500,12 +765,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python Implementation of Reinforcement Learning: An Introduction",
+                "homepage": null,
                 "id": 68125931,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-08-09T01:09:15Z",
+                "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14758
+                "stars": 14758,
+                "topics": [
+                  "artificial-intelligence",
+                  "reinforcement-learning"
+                ]
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
             }
@@ -524,12 +797,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A course in reinforcement learning in the wild",
+            "homepage": null,
             "id": 79821807,
             "language": "Jupyter Notebook",
+            "license": "Unlicense",
             "last_commit": "2026-03-31T20:00:24Z",
+            "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6565
+            "stars": 6565,
+            "topics": [
+              "course-materials",
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "git-course",
+              "hacktoberfest",
+              "keras",
+              "mooc",
+              "pytorch",
+              "pytorch-tutorials",
+              "reinforcement-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         }
@@ -546,12 +836,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deep Q learning demonstration using Google Tensorflow",
+            "homepage": null,
             "id": 46150329,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2017-05-24T22:11:09Z",
+            "open_issues": 6,
             "owner": "siemanko",
             "repo": "tensorflow-deepq",
-            "stars": 1166
+            "stars": 1166,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         }
@@ -568,12 +863,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+            "homepage": "https://www.gymlibrary.dev",
             "id": 57222302,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-26T23:13:27Z",
+            "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37246
+            "stars": 37245,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -584,12 +884,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.",
+            "homepage": "https://unity.com/products/machine-learning-agents",
             "id": 102904613,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T08:41:37Z",
+            "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19651
+            "stars": 19653,
+            "topics": [
+              "deep-learning",
+              "deep-reinforcement-learning",
+              "machine-learning",
+              "neural-networks",
+              "reinforcement-learning",
+              "unity",
+              "unity3d"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -600,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.",
+            "homepage": "https://universe.openai.com",
             "id": 75566993,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-04-05T18:58:15Z",
+            "open_issues": 0,
             "owner": "openai",
             "repo": "universe",
-            "stars": 7494
+            "stars": 7494,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -616,12 +934,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A customisable 3D platform for agent-based AI research",
+            "homepage": null,
             "id": 75190475,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-04T15:38:37Z",
+            "open_issues": 66,
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7373
+            "stars": 7373,
+            "topics": [
+              "artificial-intelligence",
+              "deep-learning",
+              "machine-learning",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -632,12 +960,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Project Malmo is a platform for Artificial Intelligence experimentation and research built on top of Minecraft. We aim to inspire a new generation of research into challenging new problems presented by this unique environment. --- For installation instructions, scroll down to *Getting Started* below, or visit the project page for more information:",
+            "homepage": "https://www.microsoft.com/en-us/research/project/project-malmo/",
             "id": 59032201,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-09-03T13:10:21Z",
+            "open_issues": 171,
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4270
+            "stars": 4270,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -648,12 +981,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenDILab Decision AI Engine. The Most Comprehensive Reinforcement Learning Framework B.P.",
+            "homepage": "https://di-engine-docs.readthedocs.io",
             "id": 382787545,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-07T09:44:53Z",
+            "open_issues": 26,
             "owner": "opendilab",
             "repo": "DI-engine",
-            "stars": 3641
+            "stars": 3641,
+            "topics": [
+              "atari",
+              "distributed-reinforcement-learning",
+              "distributed-system",
+              "drl",
+              "exploration-exploitation",
+              "imitation-learning",
+              "impala",
+              "inverse-reinforcement-learning",
+              "minigrid",
+              "model-based-reinforcement-learning",
+              "mujoco",
+              "multiagent-reinforcement-learning",
+              "offline-rl",
+              "python",
+              "pytorch-rl",
+              "r2d2",
+              "reinforcement-learning",
+              "reinforcement-learning-algorithms",
+              "self-play",
+              "smac"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -664,12 +1023,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensorforce: a TensorFlow library for applied reinforcement learning",
+            "homepage": null,
             "id": 85491050,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-14T05:34:38Z",
+            "open_issues": 44,
             "owner": "tensorforce",
             "repo": "tensorforce",
-            "stars": 3305
+            "stars": 3305,
+            "topics": [
+              "control",
+              "deep-reinforcement-learning",
+              "reinforcement-learning",
+              "system-control",
+              "tensorflow",
+              "tensorflow-library",
+              "tensorforce"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -680,12 +1052,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TensorFlow Reinforcement Learning",
+            "homepage": null,
             "id": 144027556,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-08T18:07:05Z",
+            "open_issues": 6,
             "owner": "google-deepmind",
             "repo": "trfl",
-            "stars": 3130
+            "stars": 3130,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -696,12 +1073,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for reproducible reinforcement learning research.",
+            "homepage": null,
             "id": 136846372,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-04T14:44:22Z",
+            "open_issues": 234,
             "owner": "rlworkgroup",
             "repo": "garage",
-            "stars": 2126
+            "stars": 2126,
+            "topics": [
+              "pytorch",
+              "reproducibility",
+              "rl-algorithms",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -712,12 +1099,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reinforcement Learning environments based on the 1993 game Doom :godmode:",
+            "homepage": "https://vizdoom.farama.org/",
             "id": 38127500,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-21T07:29:58Z",
+            "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2064
+            "stars": 2064,
+            "topics": [
+              "deep-learning",
+              "doom",
+              "examples",
+              "gymnasium",
+              "gymnasium-environment",
+              "python",
+              "reinforcement-learning",
+              "vizdoom"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -728,12 +1129,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Platform for Many-Agent Reinforcement Learning",
+            "homepage": null,
             "id": 109678660,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-22T00:21:27Z",
+            "open_issues": 31,
             "owner": "geek-ai",
             "repo": "MAgent",
-            "stars": 1762
+            "stars": 1762,
+            "topics": [
+              "deep-learning",
+              "multi-agent",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -744,12 +1154,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Connecting Torch to StarCraft",
+            "homepage": null,
             "id": 75440660,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-08-30T19:19:38Z",
+            "open_issues": 32,
             "owner": "TorchCraft",
             "repo": "TorchCraft",
-            "stars": 1398
+            "stars": 1398,
+            "topics": [
+              "bwapi",
+              "deep-learning",
+              "machine-learning",
+              "reinforcement-learning",
+              "starcraft",
+              "torch",
+              "torchcraft"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -760,12 +1183,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Modular Deep Reinforcement Learning framework in PyTorch. Companion library of the book \"Foundations of Deep Reinforcement Learning\".",
+            "homepage": "https://slm-lab.gitbook.io/slm-lab/",
             "id": 105591065,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-20T22:18:32Z",
+            "open_issues": 5,
             "owner": "kengz",
             "repo": "SLM-Lab",
-            "stars": 1362
+            "stars": 1362,
+            "topics": [
+              "a2c",
+              "a3c",
+              "benchmark",
+              "deep-reinforcement-learning",
+              "dqn",
+              "policy-gradient",
+              "ppo",
+              "pytorch",
+              "reinforcement-learning",
+              "sac"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -776,12 +1215,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕹️ A diverse suite of scalable reinforcement learning environments in JAX",
+            "homepage": "https://instadeepai.github.io/jumanji",
             "id": 523628011,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T16:00:06Z",
+            "open_issues": 27,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 858
+            "stars": 859,
+            "topics": [
+              "jax",
+              "python",
+              "reinforcement-learning",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -792,12 +1241,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Torch plugin for Unreal Engine 4.",
+            "homepage": null,
             "id": 52974041,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2017-12-20T16:25:42Z",
+            "open_issues": 5,
             "owner": "facebookarchive",
             "repo": "UETorch",
-            "stars": 369
+            "stars": 369,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -808,12 +1262,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An experimentation framework for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.",
+            "homepage": null,
             "id": 65353367,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-02-09T04:30:18Z",
+            "open_issues": 0,
             "owner": "kengz",
             "repo": "openai_lab",
-            "stars": 327
+            "stars": 327,
+            "topics": [
+              "actor-critic",
+              "ddpg",
+              "deep-reinforcement-learning",
+              "experiment",
+              "keras",
+              "openai",
+              "policy-gradient",
+              "reinforcement-learning",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -824,12 +1293,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Torch-twrl is a package that enables reinforcement learning in Torch.",
+            "homepage": null,
             "id": 67107342,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2017-05-27T16:04:02Z",
+            "open_issues": 1,
             "owner": "twitter-archive",
             "repo": "torch-twrl",
-            "stars": 251
+            "stars": 251,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -840,12 +1314,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Retro Learning Environment (RLE) -- a learning framework for AI",
+            "homepage": null,
             "id": 45974977,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2018-06-06T09:52:54Z",
+            "open_issues": 5,
             "owner": "nadavbh12",
             "repo": "Retro-Learning-Environment",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "dqn",
+              "game-engine",
+              "machine",
+              "machine-learning",
+              "reinforcement-learning"
+            ]
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         },
@@ -856,12 +1341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep Reinforcement Learning for Keras.",
+            "homepage": "http://keras-rl.readthedocs.io/",
             "id": 578577712,
             "language": null,
+            "license": "MIT",
             "last_commit": "2022-05-23T13:10:46Z",
+            "open_issues": 0,
             "owner": "matthiasplappert",
             "repo": "keras-rl",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
         }
@@ -870,15 +1360,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:02:30.043Z",
+    "last_updated": "2026-08-29T04:14:05.860Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Reinforcement learning resources curated",
+      "homepage": "http://aikorea.org/awesome-rl",
       "id": 40465212,
       "language": null,
+      "license": null,
       "last_commit": "2023-05-25T22:25:44Z",
+      "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9923
+      "stars": 9924,
+      "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
     "enhanced_repository": "enhansome/enhansome-rl",
