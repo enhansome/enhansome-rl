@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3659,
+            "stars": 3660,
             "topics": [
               "a3c",
               "actor-critic",
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3659,
+            "stars": 3660,
             "topics": [
               "a3c",
               "actor-critic",
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6565,
+            "stars": 6566,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -1108,7 +1108,7 @@
             "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2064,
+            "stars": 2065,
             "topics": [
               "deep-learning",
               "doom",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:14:05.860Z",
+    "last_updated": "2026-08-29T12:50:42.716Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9924,
+      "stars": 9926,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
