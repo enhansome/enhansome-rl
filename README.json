@@ -71,7 +71,7 @@
             "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3449,
+            "stars": 3450,
             "topics": [
               "a2c",
               "categorical-dqn",
@@ -293,7 +293,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14758,
+                "stars": 14759,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -405,7 +405,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14758,
+                "stars": 14759,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -579,7 +579,7 @@
             "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3449,
+            "stars": 3450,
             "topics": [
               "a2c",
               "categorical-dqn",
@@ -774,7 +774,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14758,
+                "stars": 14759,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6566,
+            "stars": 6567,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37245,
+            "stars": 37244,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -943,7 +943,7 @@
             "open_issues": 66,
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7373,
+            "stars": 7372,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1104,7 +1104,7 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-08-21T07:29:58Z",
+            "last_commit": "2026-08-30T11:45:50Z",
             "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T12:50:42.716Z",
+    "last_updated": "2026-08-30T12:18:53.328Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9926,
+      "stars": 9928,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
