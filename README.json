@@ -109,7 +109,7 @@
             "open_issues": 65,
             "owner": "chainer",
             "repo": "chainerrl",
-            "stars": 1198,
+            "stars": 1199,
             "topics": [
               "actor-critic",
               "chainer",
@@ -159,7 +159,7 @@
             "open_issues": 27,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "jax",
               "python",
@@ -293,7 +293,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14761,
+                "stars": 14760,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -317,7 +317,7 @@
                 "open_issues": 23,
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2431,
+                "stars": 2432,
                 "topics": [
                   "exercise-solutions",
                   "reinforcement-learning",
@@ -405,7 +405,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14761,
+                "stars": 14760,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -617,7 +617,7 @@
             "open_issues": 65,
             "owner": "chainer",
             "repo": "chainerrl",
-            "stars": 1198,
+            "stars": 1199,
             "topics": [
               "actor-critic",
               "chainer",
@@ -667,7 +667,7 @@
             "open_issues": 27,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "jax",
               "python",
@@ -774,7 +774,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14761,
+                "stars": 14760,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6567,
+            "stars": 6566,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -893,7 +893,7 @@
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19652,
+            "stars": 19653,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1082,7 +1082,7 @@
             "open_issues": 234,
             "owner": "rlworkgroup",
             "repo": "garage",
-            "stars": 2126,
+            "stars": 2125,
             "topics": [
               "pytorch",
               "reproducibility",
@@ -1224,7 +1224,7 @@
             "open_issues": 27,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 859,
+            "stars": 860,
             "topics": [
               "jax",
               "python",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T14:29:18.954Z",
+    "last_updated": "2026-09-01T12:07:12.036Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9932,
+      "stars": 9935,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
