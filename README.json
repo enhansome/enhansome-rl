@@ -19,7 +19,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16762,
+            "stars": 16761,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3660,
+            "stars": 3662,
             "topics": [
               "a3c",
               "actor-critic",
@@ -156,7 +156,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T22:01:46Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "instadeepai",
             "repo": "jumanji",
             "stars": 860,
@@ -317,7 +317,7 @@
                 "open_issues": 23,
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2433,
+                "stars": 2432,
                 "topics": [
                   "exercise-solutions",
                   "reinforcement-learning",
@@ -343,7 +343,7 @@
                 "open_issues": 18,
                 "owner": "JuliaReinforcementLearning",
                 "repo": "ReinforcementLearningAnIntroduction.jl",
-                "stars": 331,
+                "stars": 330,
                 "topics": [
                   "julia",
                   "reinforcement-learning"
@@ -377,7 +377,7 @@
                 "open_issues": 3,
                 "owner": "enggen",
                 "repo": "DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning",
-                "stars": 864,
+                "stars": 865,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
@@ -527,7 +527,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16762,
+            "stars": 16761,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3660,
+            "stars": 3662,
             "topics": [
               "a3c",
               "actor-critic",
@@ -664,7 +664,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T22:01:46Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "instadeepai",
             "repo": "jumanji",
             "stars": 860,
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6566,
+            "stars": 6567,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37246,
+            "stars": 37244,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -889,11 +889,11 @@
             "id": 102904613,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-25T08:41:37Z",
+            "last_commit": "2026-09-02T18:38:03Z",
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19653,
+            "stars": 19658,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1028,11 +1028,11 @@
             "id": 85491050,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-07-14T05:34:38Z",
-            "open_issues": 44,
+            "last_commit": "2026-09-02T16:44:22Z",
+            "open_issues": 45,
             "owner": "tensorforce",
             "repo": "tensorforce",
-            "stars": 3305,
+            "stars": 3304,
             "topics": [
               "control",
               "deep-reinforcement-learning",
@@ -1104,8 +1104,8 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-08-30T21:01:12Z",
-            "open_issues": 39,
+            "last_commit": "2026-09-02T21:53:14Z",
+            "open_issues": 37,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
             "stars": 2065,
@@ -1221,7 +1221,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T22:01:46Z",
-            "open_issues": 28,
+            "open_issues": 29,
             "owner": "instadeepai",
             "repo": "jumanji",
             "stars": 860,
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T11:45:27.929Z",
+    "last_updated": "2026-09-03T11:45:12.656Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9937,
+      "stars": 9938,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
