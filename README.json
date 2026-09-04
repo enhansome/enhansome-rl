@@ -19,7 +19,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16761,
+            "stars": 16760,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -138,7 +138,7 @@
             "open_issues": 6,
             "owner": "siemanko",
             "repo": "tensorflow-deepq",
-            "stars": 1166,
+            "stars": 1164,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -155,8 +155,8 @@
             "id": 523628011,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T22:01:46Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-04T09:25:57Z",
+            "open_issues": 25,
             "owner": "instadeepai",
             "repo": "jumanji",
             "stars": 860,
@@ -527,7 +527,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16761,
+            "stars": 16760,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -646,7 +646,7 @@
             "open_issues": 6,
             "owner": "siemanko",
             "repo": "tensorflow-deepq",
-            "stars": 1166,
+            "stars": 1164,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -663,8 +663,8 @@
             "id": 523628011,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T22:01:46Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-04T09:25:57Z",
+            "open_issues": 25,
             "owner": "instadeepai",
             "repo": "jumanji",
             "stars": 860,
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6567,
+            "stars": 6566,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -845,7 +845,7 @@
             "open_issues": 6,
             "owner": "siemanko",
             "repo": "tensorflow-deepq",
-            "stars": 1166,
+            "stars": 1164,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37244,
+            "stars": 37243,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -893,7 +893,7 @@
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19658,
+            "stars": 19659,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -943,7 +943,7 @@
             "open_issues": 66,
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7372,
+            "stars": 7373,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -990,7 +990,7 @@
             "open_issues": 26,
             "owner": "opendilab",
             "repo": "DI-engine",
-            "stars": 3642,
+            "stars": 3643,
             "topics": [
               "atari",
               "distributed-reinforcement-learning",
@@ -1104,8 +1104,8 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-02T21:53:14Z",
-            "open_issues": 37,
+            "last_commit": "2026-09-04T08:12:26Z",
+            "open_issues": 36,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
             "stars": 2065,
@@ -1220,8 +1220,8 @@
             "id": 523628011,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T22:01:46Z",
-            "open_issues": 29,
+            "last_commit": "2026-09-04T09:25:57Z",
+            "open_issues": 25,
             "owner": "instadeepai",
             "repo": "jumanji",
             "stars": 860,
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T11:45:12.656Z",
+    "last_updated": "2026-09-04T11:46:38.242Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9938,
+      "stars": 9937,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
