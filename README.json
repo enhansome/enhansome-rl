@@ -19,7 +19,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16756,
+            "stars": 16757,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -159,7 +159,7 @@
             "open_issues": 27,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "jax",
               "python",
@@ -293,7 +293,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14758,
+                "stars": 14760,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -317,7 +317,7 @@
                 "open_issues": 23,
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2432,
+                "stars": 2433,
                 "topics": [
                   "exercise-solutions",
                   "reinforcement-learning",
@@ -405,7 +405,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14758,
+                "stars": 14760,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -527,7 +527,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16756,
+            "stars": 16757,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -667,7 +667,7 @@
             "open_issues": 27,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "jax",
               "python",
@@ -774,7 +774,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14758,
+                "stars": 14760,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6570,
+            "stars": 6572,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37236,
+            "stars": 37238,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -893,7 +893,7 @@
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19664,
+            "stars": 19671,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -922,7 +922,7 @@
             "open_issues": 0,
             "owner": "openai",
             "repo": "universe",
-            "stars": 7493,
+            "stars": 7492,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -1224,7 +1224,7 @@
             "open_issues": 27,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 861,
+            "stars": 862,
             "topics": [
               "jax",
               "python",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T11:52:45.272Z",
+    "last_updated": "2026-09-11T11:51:00.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9939,
+      "stars": 9947,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
