@@ -19,7 +19,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16760,
+            "stars": 16762,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3662,
+            "stars": 3661,
             "topics": [
               "a3c",
               "actor-critic",
@@ -293,7 +293,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14761,
+                "stars": 14762,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -405,7 +405,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14761,
+                "stars": 14762,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -527,7 +527,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16760,
+            "stars": 16762,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3662,
+            "stars": 3661,
             "topics": [
               "a3c",
               "actor-critic",
@@ -774,7 +774,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14761,
+                "stars": 14762,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37237,
+            "stars": 37239,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -893,7 +893,7 @@
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19672,
+            "stars": 19674,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -943,7 +943,7 @@
             "open_issues": 67,
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7377,
+            "stars": 7378,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1032,7 +1032,7 @@
             "open_issues": 45,
             "owner": "tensorforce",
             "repo": "tensorforce",
-            "stars": 3303,
+            "stars": 3305,
             "topics": [
               "control",
               "deep-reinforcement-learning",
@@ -1104,11 +1104,11 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-13T08:47:05Z",
-            "open_issues": 40,
+            "last_commit": "2026-09-13T22:44:12Z",
+            "open_issues": 38,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2069,
+            "stars": 2072,
             "topics": [
               "deep-learning",
               "doom",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:20:37.903Z",
+    "last_updated": "2026-09-14T13:24:11.984Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9953,
+      "stars": 9957,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
