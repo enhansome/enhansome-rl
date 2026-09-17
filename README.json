@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3662,
+            "stars": 3664,
             "topics": [
               "a3c",
               "actor-critic",
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3662,
+            "stars": 3664,
             "topics": [
               "a3c",
               "actor-critic",
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37239,
+            "stars": 37241,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -889,11 +889,11 @@
             "id": 102904613,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-02T18:38:03Z",
+            "last_commit": "2026-09-16T20:38:54Z",
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19679,
+            "stars": 19684,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -969,7 +969,7 @@
             "open_issues": 171,
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4270,
+            "stars": 4271,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -1082,7 +1082,7 @@
             "open_issues": 234,
             "owner": "rlworkgroup",
             "repo": "garage",
-            "stars": 2127,
+            "stars": 2128,
             "topics": [
               "pytorch",
               "reproducibility",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:12:45.689Z",
+    "last_updated": "2026-09-17T12:13:45.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9960,
+      "stars": 9964,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
