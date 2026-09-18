@@ -10,7 +10,7 @@ Maintainers: [Hyunsoo Kim](http://sites.duke.edu/hyunsookim/), [Jiwon Kim](http:
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls) ⭐ 9,964 | 🐛 7 | 📅 2023-05-25
+Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls) ⭐ 9,967 | 🐛 7 | 📅 2023-05-25
 
 ## Table of Contents
 
@@ -44,7 +44,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
 * [Black-DROPS](https://github.com/resibots/blackdrops) ⭐ 65 | 🐛 8 | 🌐 C++ | 📅 2021-11-17 - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
 * Codes for examples and exercises in Richard Sutton and Andrew Barto's Reinforcement Learning: An Introduction
   * [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,763 | 🐛 22 | 🌐 Python | 📅 2024-08-09
-  * [Exercise Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions) ⭐ 2,435 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2025-07-10
+  * [Exercise Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions) ⭐ 2,436 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2025-07-10
   * [Julia Code](https://github.com/Ju-jl/ReinforcementLearningAnIntroduction.jl) ⭐ 330 | 🐛 18 | 🌐 Julia | 📅 2024-03-27
   * [MATLAB Code (BROKEN LINK)](http://waxworksmath.com/Authors/N_Z/Sutton/sutton.html)
   * [C/Lisp Code](http://incompleteideas.net/book/code/code2nd.html)
@@ -245,7 +245,7 @@ Computer Games
 
 ## Tutorials / Websites
 
-* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,575 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31 - github-based course in reinforcement learning in the wild (lectures, coding labs, projects)
+* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,576 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31 - github-based course in reinforcement learning in the wild (lectures, coding labs, projects)
 * Mance Harmon and Stephanie Harmon, [Reinforcement Learning: A Tutorial](http://old.nbu.bg/cogs/events/2000/Readings/Petrov/rltutorial.pdf)
 * C. Igel, M.A. Riedmiller, et al., Reinforcement Learning in a Nutshell, ESANN, 2007. [\[Paper\]](http://image.diku.dk/igel/paper/RLiaN.pdf)
 * UNSW - [Reinforcement Learning](http://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html)
@@ -282,15 +282,15 @@ Computer Games
 ## Open Source Reinforcement Learning Platforms
 
 * [OpenAI gym](https://github.com/openai/gym) ⚠️ Archived - A toolkit for developing and comparing reinforcement learning algorithms
-* [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,684 | 🐛 21 | 🌐 C# | 📅 2026-09-16 - Create reinforcement learning environments using the Unity Editor
+* [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,690 | 🐛 21 | 🌐 C# | 📅 2026-09-17 - Create reinforcement learning environments using the Unity Editor
 * [OpenAI universe](https://github.com/openai/universe) ⚠️ Archived - A software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications
-* [DeepMind Lab](https://github.com/deepmind/lab) ⭐ 7,378 | 🐛 67 | 🌐 C | 📅 2023-01-04 - A customisable 3D platform for agent-based AI research
+* [DeepMind Lab](https://github.com/deepmind/lab) ⭐ 7,379 | 🐛 67 | 🌐 C | 📅 2023-01-04 - A customisable 3D platform for agent-based AI research
 * [Project Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - A platform for Artificial Intelligence experimentation and research built on top of Minecraft by Microsoft
-* [DI-engine](https://github.com/opendilab/DI-engine) ⭐ 3,646 | 🐛 26 | 🌐 Python | 📅 2025-12-07 - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+* [DI-engine](https://github.com/opendilab/DI-engine) ⭐ 3,645 | 🐛 26 | 🌐 Python | 📅 2025-12-07 - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 * [TensorForce](https://github.com/reinforceio/tensorforce) ⭐ 3,305 | 🐛 45 | 🌐 Python | 📅 2026-09-02 - Practical deep reinforcement learning on TensorFlow with Gitter support and OpenAI Gym/Universe/DeepMind Lab integration.
 * [tf-TRFL](https://github.com/deepmind/trfl/) ⭐ 3,130 | 🐛 6 | 🌐 Python | 📅 2022-12-08 - A library built on top of TensorFlow that exposes several useful building blocks for implementing Reinforcement Learning agents.
 * [garage](https://github.com/rlworkgroup/garage) ⭐ 2,128 | 🐛 234 | 🌐 Python | 📅 2023-05-04 - A framework for reproducible reinformcement learning research, fully compatible with OpenAI Gym and DeepMind Control Suite (successor to rllab)
-* [ViZDoom](https://github.com/Marqt/ViZDoom) ⭐ 2,073 | 🐛 38 | 🌐 C++ | 📅 2026-09-13 - Doom-based AI research platform for reinforcement learning from raw visual information
+* [ViZDoom](https://github.com/Marqt/ViZDoom) ⭐ 2,074 | 🐛 38 | 🌐 C++ | 📅 2026-09-13 - Doom-based AI research platform for reinforcement learning from raw visual information
 * [MAgent](https://github.com/geek-ai/MAgent) ⭐ 1,759 | 🐛 31 | 🌐 Python | 📅 2022-10-22 - A Platform for Many-agent Reinforcement Learning.
 * [TorchCraft](https://github.com/TorchCraft/TorchCraft) ⚠️ Archived - Connecting Torch to StarCraft
 * [SLM Lab](https://github.com/kengz/SLM-Lab) ⭐ 1,361 | 🐛 5 | 🌐 Python | 📅 2026-08-20 - A research framework for Deep Reinforcement Learning using Unity, OpenAI Gym, PyTorch, Tensorflow.
@@ -313,4 +313,4 @@ Computer Games
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._

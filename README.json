@@ -317,7 +317,7 @@
                 "open_issues": 23,
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2435,
+                "stars": 2436,
                 "topics": [
                   "exercise-solutions",
                   "reinforcement-learning",
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6575,
+            "stars": 6576,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37241,
+            "stars": 37239,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -889,11 +889,11 @@
             "id": 102904613,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-16T20:38:54Z",
+            "last_commit": "2026-09-17T19:34:51Z",
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19684,
+            "stars": 19690,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -922,7 +922,7 @@
             "open_issues": 0,
             "owner": "openai",
             "repo": "universe",
-            "stars": 7491,
+            "stars": 7490,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -943,7 +943,7 @@
             "open_issues": 67,
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7378,
+            "stars": 7379,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -990,7 +990,7 @@
             "open_issues": 26,
             "owner": "opendilab",
             "repo": "DI-engine",
-            "stars": 3646,
+            "stars": 3645,
             "topics": [
               "atari",
               "distributed-reinforcement-learning",
@@ -1108,7 +1108,7 @@
             "open_issues": 38,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2073,
+            "stars": 2074,
             "topics": [
               "deep-learning",
               "doom",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T12:13:45.673Z",
+    "last_updated": "2026-09-18T11:53:49.088Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9964,
+      "stars": 9967,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
