@@ -19,7 +19,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16761,
+            "stars": 16760,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -159,7 +159,7 @@
             "open_issues": 28,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 862,
+            "stars": 863,
             "topics": [
               "jax",
               "python",
@@ -317,7 +317,7 @@
                 "open_issues": 23,
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2436,
+                "stars": 2437,
                 "topics": [
                   "exercise-solutions",
                   "reinforcement-learning",
@@ -527,7 +527,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16761,
+            "stars": 16760,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -667,7 +667,7 @@
             "open_issues": 28,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 862,
+            "stars": 863,
             "topics": [
               "jax",
               "python",
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6576,
+            "stars": 6577,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37239,
+            "stars": 37238,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -893,7 +893,7 @@
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19690,
+            "stars": 19691,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -943,7 +943,7 @@
             "open_issues": 67,
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7379,
+            "stars": 7380,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1104,11 +1104,11 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-13T22:44:12Z",
-            "open_issues": 38,
+            "last_commit": "2026-09-19T07:39:47Z",
+            "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2074,
+            "stars": 2077,
             "topics": [
               "deep-learning",
               "doom",
@@ -1224,7 +1224,7 @@
             "open_issues": 28,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 862,
+            "stars": 863,
             "topics": [
               "jax",
               "python",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T11:53:49.088Z",
+    "last_updated": "2026-09-19T11:37:49.944Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
