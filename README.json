@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3664,
+            "stars": 3665,
             "topics": [
               "a3c",
               "actor-critic",
@@ -317,7 +317,7 @@
                 "open_issues": 23,
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2438,
+                "stars": 2439,
                 "topics": [
                   "exercise-solutions",
                   "reinforcement-learning",
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3664,
+            "stars": 3665,
             "topics": [
               "a3c",
               "actor-critic",
@@ -889,7 +889,7 @@
             "id": 102904613,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T08:02:12Z",
+            "last_commit": "2026-09-25T13:13:13Z",
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
@@ -1108,7 +1108,7 @@
             "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2085,
+            "stars": 2086,
             "topics": [
               "deep-learning",
               "doom",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T12:21:06.029Z",
+    "last_updated": "2026-09-26T11:52:11.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 9980,
+      "stars": 9982,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
