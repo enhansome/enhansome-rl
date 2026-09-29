@@ -10,7 +10,7 @@ Maintainers: [Hyunsoo Kim](http://sites.duke.edu/hyunsookim/), [Jiwon Kim](http:
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls) ⭐ 9,990 | 🐛 7 | 📅 2023-05-25
+Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls) ⭐ 9,992 | 🐛 7 | 📅 2023-05-25
 
 ## Table of Contents
 
@@ -33,18 +33,18 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
 ## Codes
 
 * [OpenAI Baselines](https://github.com/openai/baselines) ⭐ 16,765 | 🐛 502 | 🌐 Python | 📅 2024-08-01 - Well tested implementations ([and results](https://github.com/openai/baselines-results) ⚠️ Archived) of reinforcement learning algorithms from OpenAI
-* [Reinforcement Learning Examples by RLCode](https://github.com/rlcode/reinforcement-learning) ⭐ 3,665 | 🐛 0 | 🌐 Python | 📅 2026-06-12 - A Collection of minimal and clean reinforcement learning examples
+* [Reinforcement Learning Examples by RLCode](https://github.com/rlcode/reinforcement-learning) ⭐ 3,667 | 🐛 0 | 🌐 Python | 📅 2026-06-12 - A Collection of minimal and clean reinforcement learning examples
 * [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) ⭐ 3,456 | 🐛 8 | 🌐 Python | 📅 2024-04-16 - Popular deep RL algorithm implementations with PyTorch
-* [ChainerRL](https://github.com/chainer/chainerrl) ⭐ 1,200 | 🐛 65 | 🌐 Python | 📅 2021-08-10 - Popular deep RL algorithm implementations with Chainer
+* [ChainerRL](https://github.com/chainer/chainerrl) ⭐ 1,201 | 🐛 65 | 🌐 Python | 📅 2021-08-10 - Popular deep RL algorithm implementations with Chainer
 * [Deep Q-Learning with TensorFlow](https://github.com/nivwusquorum/tensorflow-deepq) ⭐ 1,164 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2017-05-24 - A deep Q learning demonstration using Google Tensorflow
-* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 864 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
+* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 865 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
 * [Gold](https://github.com/aunum/gold) ⭐ 352 | 🐛 7 | 🌐 Go | 📅 2020-10-22 - A reinforcement learning library for Golang.
 * [AgentNet](https://github.com/yandexdataschool/AgentNet) ⚠️ Archived - A python library for deep reinforcement learning and custom recurrent networks using Theano+Lasagne.
 * [Atari](https://github.com/Kaixhin/Atari) ⭐ 263 | 🐛 15 | 🌐 Lua | 📅 2018-02-08 - Deep Q-networks and asynchronous agents in Torch
 * [Black-DROPS](https://github.com/resibots/blackdrops) ⭐ 65 | 🐛 8 | 🌐 C++ | 📅 2021-11-17 - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
 * Codes for examples and exercises in Richard Sutton and Andrew Barto's Reinforcement Learning: An Introduction
-  * [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,765 | 🐛 22 | 🌐 Python | 📅 2024-08-09
-  * [Exercise Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions) ⭐ 2,439 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2025-07-10
+  * [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,767 | 🐛 22 | 🌐 Python | 📅 2024-08-09
+  * [Exercise Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions) ⭐ 2,441 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2025-07-10
   * [Julia Code](https://github.com/Ju-jl/ReinforcementLearningAnIntroduction.jl) ⭐ 330 | 🐛 18 | 🌐 Julia | 📅 2024-03-27
   * [MATLAB Code (BROKEN LINK)](http://waxworksmath.com/Authors/N_Z/Sutton/sutton.html)
   * [C/Lisp Code](http://incompleteideas.net/book/code/code2nd.html)
@@ -70,7 +70,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
 
 ### Lectures
 
-* \[UCL] [COMPMI22/COMPGI22 - Advanced Deep Learning and Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning) ⭐ 865 | 🐛 3 | 📅 2019-06-20
+* \[UCL] [COMPMI22/COMPGI22 - Advanced Deep Learning and Reinforcement Learning](https://github.com/enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning) ⭐ 866 | 🐛 3 | 📅 2019-06-20
 * \[DeepMind x UCL] [Reinforcement Learning Lecture Series 2021](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 * \[UCL] [COMPM050/COMPGI13 Reinforcement Learning](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) by David Silver
 * \[UC Berkeley] CS188 Artificial Intelligence by Pieter Abbeel
@@ -100,7 +100,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
 
 ### Books
 
-* Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd Edition, in progress, 2018) [\[Book\]](http://incompleteideas.net/book/RLbook2020.pdf) [\[Code\]](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,765 | 🐛 22 | 🌐 Python | 📅 2024-08-09
+* Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd Edition, in progress, 2018) [\[Book\]](http://incompleteideas.net/book/RLbook2020.pdf) [\[Code\]](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,767 | 🐛 22 | 🌐 Python | 📅 2024-08-09
 * Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (1st Edition, 1998) [\[Book\]](http://incompleteideas.net/book/ebook/the-book.html) [\[Code\]](http://incompleteideas.net/book/code/code.html)
 * Csaba Szepesvari, Algorithms for Reinforcement Learning [\[Book\]](http://www.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 * David Poole and Alan Mackworth, Artificial Intelligence: Foundations of Computational Agents [\[Book Chapter\]](http://artint.info/html/ArtInt_262.html)
@@ -215,16 +215,16 @@ Computer Games
 ## Codes
 
 * [OpenAI Baselines](https://github.com/openai/baselines) ⭐ 16,765 | 🐛 502 | 🌐 Python | 📅 2024-08-01 - Well tested implementations ([and results](https://github.com/openai/baselines-results) ⚠️ Archived) of reinforcement learning algorithms from OpenAI
-* [Reinforcement Learning Examples by RLCode](https://github.com/rlcode/reinforcement-learning) ⭐ 3,665 | 🐛 0 | 🌐 Python | 📅 2026-06-12 - A Collection of minimal and clean reinforcement learning examples
+* [Reinforcement Learning Examples by RLCode](https://github.com/rlcode/reinforcement-learning) ⭐ 3,667 | 🐛 0 | 🌐 Python | 📅 2026-06-12 - A Collection of minimal and clean reinforcement learning examples
 * [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) ⭐ 3,456 | 🐛 8 | 🌐 Python | 📅 2024-04-16 - Popular deep RL algorithm implementations with PyTorch
-* [ChainerRL](https://github.com/chainer/chainerrl) ⭐ 1,200 | 🐛 65 | 🌐 Python | 📅 2021-08-10 - Popular deep RL algorithm implementations with Chainer
+* [ChainerRL](https://github.com/chainer/chainerrl) ⭐ 1,201 | 🐛 65 | 🌐 Python | 📅 2021-08-10 - Popular deep RL algorithm implementations with Chainer
 * [Deep Q-Learning with TensorFlow](https://github.com/nivwusquorum/tensorflow-deepq) ⭐ 1,164 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2017-05-24 - A deep Q learning demonstration using Google Tensorflow
-* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 864 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
+* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 865 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
 * [AgentNet](https://github.com/yandexdataschool/AgentNet) ⚠️ Archived - A python library for deep reinforcement learning and custom recurrent networks using Theano+Lasagne.
 * [Atari](https://github.com/Kaixhin/Atari) ⭐ 263 | 🐛 15 | 🌐 Lua | 📅 2018-02-08 - Deep Q-networks and asynchronous agents in Torch
 * [Black-DROPS](https://github.com/resibots/blackdrops) ⭐ 65 | 🐛 8 | 🌐 C++ | 📅 2021-11-17 - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
 * Codes for examples and exercises in Richard Sutton and Andrew Barto's [Book](#books) Reinforcement Learning: An Introduction
-  * [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,765 | 🐛 22 | 🌐 Python | 📅 2024-08-09 (2nd Edition)
+  * [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,767 | 🐛 22 | 🌐 Python | 📅 2024-08-09 (2nd Edition)
   * [MATLAB Code](https://waxworksmath.com/Authors/N_Z/Sutton/RLAI_1st_Edition/sutton.html) (1st Edition)
 * Simulation code for Reinforcement Learning Control Problems
   * [Pole-Cart Problem](http://pages.cs.wisc.edu/~finton/poledriver.html)
@@ -245,7 +245,7 @@ Computer Games
 
 ## Tutorials / Websites
 
-* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,578 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31 - github-based course in reinforcement learning in the wild (lectures, coding labs, projects)
+* [Practical\_RL](https://github.com/yandexdataschool/Practical_RL) ⭐ 6,580 | 🐛 43 | 🌐 Jupyter Notebook | 📅 2026-03-31 - github-based course in reinforcement learning in the wild (lectures, coding labs, projects)
 * Mance Harmon and Stephanie Harmon, [Reinforcement Learning: A Tutorial](http://old.nbu.bg/cogs/events/2000/Readings/Petrov/rltutorial.pdf)
 * C. Igel, M.A. Riedmiller, et al., Reinforcement Learning in a Nutshell, ESANN, 2007. [\[Paper\]](http://image.diku.dk/igel/paper/RLiaN.pdf)
 * UNSW - [Reinforcement Learning](http://www.cse.unsw.edu.au/~cs9417ml/RL1/index.html)
@@ -282,7 +282,7 @@ Computer Games
 ## Open Source Reinforcement Learning Platforms
 
 * [OpenAI gym](https://github.com/openai/gym) ⚠️ Archived - A toolkit for developing and comparing reinforcement learning algorithms
-* [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,708 | 🐛 21 | 🌐 C# | 📅 2026-09-25 - Create reinforcement learning environments using the Unity Editor
+* [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,712 | 🐛 21 | 🌐 C# | 📅 2026-09-28 - Create reinforcement learning environments using the Unity Editor
 * [OpenAI universe](https://github.com/openai/universe) ⚠️ Archived - A software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications
 * [DeepMind Lab](https://github.com/deepmind/lab) ⭐ 7,383 | 🐛 67 | 🌐 C | 📅 2023-01-04 - A customisable 3D platform for agent-based AI research
 * [Project Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - A platform for Artificial Intelligence experimentation and research built on top of Minecraft by Microsoft
@@ -290,11 +290,11 @@ Computer Games
 * [TensorForce](https://github.com/reinforceio/tensorforce) ⭐ 3,305 | 🐛 47 | 🌐 Python | 📅 2026-09-02 - Practical deep reinforcement learning on TensorFlow with Gitter support and OpenAI Gym/Universe/DeepMind Lab integration.
 * [tf-TRFL](https://github.com/deepmind/trfl/) ⭐ 3,130 | 🐛 6 | 🌐 Python | 📅 2022-12-08 - A library built on top of TensorFlow that exposes several useful building blocks for implementing Reinforcement Learning agents.
 * [garage](https://github.com/rlworkgroup/garage) ⭐ 2,130 | 🐛 235 | 🌐 Python | 📅 2023-05-04 - A framework for reproducible reinformcement learning research, fully compatible with OpenAI Gym and DeepMind Control Suite (successor to rllab)
-* [ViZDoom](https://github.com/Marqt/ViZDoom) ⭐ 2,088 | 🐛 39 | 🌐 C++ | 📅 2026-09-25 - Doom-based AI research platform for reinforcement learning from raw visual information
+* [ViZDoom](https://github.com/Marqt/ViZDoom) ⭐ 2,090 | 🐛 39 | 🌐 C++ | 📅 2026-09-25 - Doom-based AI research platform for reinforcement learning from raw visual information
 * [MAgent](https://github.com/geek-ai/MAgent) ⭐ 1,761 | 🐛 31 | 🌐 Python | 📅 2022-10-22 - A Platform for Many-agent Reinforcement Learning.
 * [TorchCraft](https://github.com/TorchCraft/TorchCraft) ⚠️ Archived - Connecting Torch to StarCraft
-* [SLM Lab](https://github.com/kengz/SLM-Lab) ⭐ 1,361 | 🐛 5 | 🌐 Python | 📅 2026-09-20 - A research framework for Deep Reinforcement Learning using Unity, OpenAI Gym, PyTorch, Tensorflow.
-* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 864 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
+* [SLM Lab](https://github.com/kengz/SLM-Lab) ⭐ 1,362 | 🐛 5 | 🌐 Python | 📅 2026-09-20 - A research framework for Deep Reinforcement Learning using Unity, OpenAI Gym, PyTorch, Tensorflow.
+* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 865 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
 * [UETorch](https://github.com/facebook/UETorch) ⚠️ Archived - A Torch plugin for Unreal Engine 4 by Facebook
 * [OpenAI lab](https://github.com/kengz/openai_lab) ⭐ 327 | 🐛 0 | 🌐 Python | 📅 2018-02-09 - An experimentation system for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.
 * [torch-twrl](https://github.com/twitter/torch-twrl) ⚠️ Archived - A package that enables reinforcement learning in Torch by Twitter
@@ -313,4 +313,4 @@ Computer Games
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
