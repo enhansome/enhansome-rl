@@ -159,7 +159,7 @@
             "open_issues": 30,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 866,
+            "stars": 865,
             "topics": [
               "jax",
               "python",
@@ -280,7 +280,7 @@
             {
               "node_type": "item",
               "title": "Python Code",
-              "description": null,
+              "description": "ShangtongZhang/reinforcement-learning-an-introduction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -304,7 +304,7 @@
             {
               "node_type": "item",
               "title": "Exercise Solutions",
-              "description": null,
+              "description": "LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -330,7 +330,7 @@
             {
               "node_type": "item",
               "title": "Julia Code",
-              "description": null,
+              "description": "JuliaReinforcementLearning/ReinforcementLearningAnIntroduction.jl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -364,7 +364,7 @@
             {
               "node_type": "item",
               "title": "[UCL] COMPMI22/COMPGI22 - Advanced Deep Learning and Reinforcement Learning",
-              "description": null,
+              "description": "enggen/DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -392,7 +392,7 @@
             {
               "node_type": "item",
               "title": "Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd Edition, in progress, 2018) [Book]",
-              "description": "[Code]",
+              "description": "ShangtongZhang/reinforcement-learning-an-introduction",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -667,7 +667,7 @@
             "open_issues": 30,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 866,
+            "stars": 865,
             "topics": [
               "jax",
               "python",
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37239,
+            "stars": 37240,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -943,7 +943,7 @@
             "open_issues": 67,
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7386,
+            "stars": 7385,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1224,7 +1224,7 @@
             "open_issues": 30,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 866,
+            "stars": 865,
             "topics": [
               "jax",
               "python",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:14:57.311Z",
+    "last_updated": "2026-10-03T05:07:16.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 10000,
+      "stars": 10001,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",

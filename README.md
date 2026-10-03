@@ -10,7 +10,7 @@ Maintainers: [Hyunsoo Kim](http://sites.duke.edu/hyunsookim/), [Jiwon Kim](http:
 
 ## Contributing
 
-Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls) ⭐ 10,000 | 🐛 7 | 📅 2023-05-25
+Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
 
 ## Table of Contents
 
@@ -37,7 +37,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
 * [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) ⭐ 3,456 | 🐛 8 | 🌐 Python | 📅 2024-04-16 - Popular deep RL algorithm implementations with PyTorch
 * [ChainerRL](https://github.com/chainer/chainerrl) ⭐ 1,203 | 🐛 65 | 🌐 Python | 📅 2021-08-10 - Popular deep RL algorithm implementations with Chainer
 * [Deep Q-Learning with TensorFlow](https://github.com/nivwusquorum/tensorflow-deepq) ⭐ 1,164 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2017-05-24 - A deep Q learning demonstration using Google Tensorflow
-* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 866 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
+* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 865 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
 * [Gold](https://github.com/aunum/gold) ⭐ 352 | 🐛 7 | 🌐 Go | 📅 2020-10-22 - A reinforcement learning library for Golang.
 * [AgentNet](https://github.com/yandexdataschool/AgentNet) ⚠️ Archived - A python library for deep reinforcement learning and custom recurrent networks using Theano+Lasagne.
 * [Atari](https://github.com/Kaixhin/Atari) ⭐ 263 | 🐛 15 | 🌐 Lua | 📅 2018-02-08 - Deep Q-networks and asynchronous agents in Torch
@@ -219,7 +219,7 @@ Computer Games
 * [PyTorch Deep RL](https://github.com/ShangtongZhang/DeepRL) ⭐ 3,456 | 🐛 8 | 🌐 Python | 📅 2024-04-16 - Popular deep RL algorithm implementations with PyTorch
 * [ChainerRL](https://github.com/chainer/chainerrl) ⭐ 1,203 | 🐛 65 | 🌐 Python | 📅 2021-08-10 - Popular deep RL algorithm implementations with Chainer
 * [Deep Q-Learning with TensorFlow](https://github.com/nivwusquorum/tensorflow-deepq) ⭐ 1,164 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2017-05-24 - A deep Q learning demonstration using Google Tensorflow
-* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 866 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
+* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 865 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
 * [AgentNet](https://github.com/yandexdataschool/AgentNet) ⚠️ Archived - A python library for deep reinforcement learning and custom recurrent networks using Theano+Lasagne.
 * [Atari](https://github.com/Kaixhin/Atari) ⭐ 263 | 🐛 15 | 🌐 Lua | 📅 2018-02-08 - Deep Q-networks and asynchronous agents in Torch
 * [Black-DROPS](https://github.com/resibots/blackdrops) ⭐ 65 | 🐛 8 | 🌐 C++ | 📅 2021-11-17 - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
@@ -284,7 +284,7 @@ Computer Games
 * [OpenAI gym](https://github.com/openai/gym) ⚠️ Archived - A toolkit for developing and comparing reinforcement learning algorithms
 * [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,717 | 🐛 20 | 🌐 C# | 📅 2026-09-29 - Create reinforcement learning environments using the Unity Editor
 * [OpenAI universe](https://github.com/openai/universe) ⚠️ Archived - A software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications
-* [DeepMind Lab](https://github.com/deepmind/lab) ⭐ 7,386 | 🐛 67 | 🌐 C | 📅 2023-01-04 - A customisable 3D platform for agent-based AI research
+* [DeepMind Lab](https://github.com/deepmind/lab) ⭐ 7,385 | 🐛 67 | 🌐 C | 📅 2023-01-04 - A customisable 3D platform for agent-based AI research
 * [Project Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - A platform for Artificial Intelligence experimentation and research built on top of Minecraft by Microsoft
 * [DI-engine](https://github.com/opendilab/DI-engine) ⭐ 3,647 | 🐛 26 | 🌐 Python | 📅 2025-12-07 - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 * [TensorForce](https://github.com/reinforceio/tensorforce) ⭐ 3,305 | 🐛 47 | 🌐 Python | 📅 2026-09-02 - Practical deep reinforcement learning on TensorFlow with Gitter support and OpenAI Gym/Universe/DeepMind Lab integration.
@@ -294,7 +294,7 @@ Computer Games
 * [MAgent](https://github.com/geek-ai/MAgent) ⭐ 1,761 | 🐛 31 | 🌐 Python | 📅 2022-10-22 - A Platform for Many-agent Reinforcement Learning.
 * [TorchCraft](https://github.com/TorchCraft/TorchCraft) ⚠️ Archived - Connecting Torch to StarCraft
 * [SLM Lab](https://github.com/kengz/SLM-Lab) ⭐ 1,362 | 🐛 5 | 🌐 Python | 📅 2026-09-20 - A research framework for Deep Reinforcement Learning using Unity, OpenAI Gym, PyTorch, Tensorflow.
-* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 866 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
+* [Jumanji](https://github.com/instadeepai/jumanji) ⭐ 865 | 🐛 30 | 🌐 Python | 📅 2026-09-09 - A Suite of Industry-Driven Hardware-Accelerated RL Environments written in JAX.
 * [UETorch](https://github.com/facebook/UETorch) ⚠️ Archived - A Torch plugin for Unreal Engine 4 by Facebook
 * [OpenAI lab](https://github.com/kengz/openai_lab) ⭐ 327 | 🐛 0 | 🌐 Python | 📅 2018-02-09 - An experimentation system for Reinforcement Learning using OpenAI Gym, Tensorflow, and Keras.
 * [torch-twrl](https://github.com/twitter/torch-twrl) ⚠️ Archived - A package that enables reinforcement learning in Torch by Twitter
@@ -313,4 +313,4 @@ Computer Games
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
