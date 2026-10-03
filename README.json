@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3668,
+            "stars": 3669,
             "topics": [
               "a3c",
               "actor-critic",
@@ -293,7 +293,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14769,
+                "stars": 14771,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -405,7 +405,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14769,
+                "stars": 14771,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3668,
+            "stars": 3669,
             "topics": [
               "a3c",
               "actor-critic",
@@ -774,7 +774,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14769,
+                "stars": 14771,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6581,
+            "stars": 6582,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -1108,7 +1108,7 @@
             "open_issues": 39,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2094,
+            "stars": 2095,
             "topics": [
               "deep-learning",
               "doom",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:07:16.947Z",
+    "last_updated": "2026-10-03T12:05:25.863Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
