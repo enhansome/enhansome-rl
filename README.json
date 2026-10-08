@@ -19,7 +19,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16770,
+            "stars": 16771,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -527,7 +527,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16770,
+            "stars": 16771,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6586,
+            "stars": 6588,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -893,7 +893,7 @@
             "open_issues": 19,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19721,
+            "stars": 19725,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1104,8 +1104,8 @@
             "id": 38127500,
             "language": "C++",
             "license": null,
-            "last_commit": "2026-09-25T11:48:09Z",
-            "open_issues": 39,
+            "last_commit": "2026-10-08T04:24:05Z",
+            "open_issues": 40,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
             "stars": 2097,
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T13:59:55.803Z",
+    "last_updated": "2026-10-08T14:05:08.613Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 10008,
+      "stars": 10010,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
