@@ -19,7 +19,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16777,
+            "stars": 16776,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -155,11 +155,11 @@
             "id": 523628011,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T13:05:56Z",
+            "last_commit": "2026-10-12T07:56:35Z",
             "open_issues": 28,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 868,
+            "stars": 869,
             "topics": [
               "jax",
               "python",
@@ -293,7 +293,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14782,
+                "stars": 14783,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -317,7 +317,7 @@
                 "open_issues": 23,
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2440,
+                "stars": 2441,
                 "topics": [
                   "exercise-solutions",
                   "reinforcement-learning",
@@ -405,7 +405,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14782,
+                "stars": 14783,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -527,7 +527,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16777,
+            "stars": 16776,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -663,11 +663,11 @@
             "id": 523628011,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T13:05:56Z",
+            "last_commit": "2026-10-12T07:56:35Z",
             "open_issues": 28,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 868,
+            "stars": 869,
             "topics": [
               "jax",
               "python",
@@ -774,7 +774,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14782,
+                "stars": 14783,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37245,
+            "stars": 37244,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -893,7 +893,7 @@
             "open_issues": 18,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19734,
+            "stars": 19737,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -943,7 +943,7 @@
             "open_issues": 67,
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7385,
+            "stars": 7387,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -1082,7 +1082,7 @@
             "open_issues": 234,
             "owner": "rlworkgroup",
             "repo": "garage",
-            "stars": 2131,
+            "stars": 2132,
             "topics": [
               "pytorch",
               "reproducibility",
@@ -1220,11 +1220,11 @@
             "id": 523628011,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-09T13:05:56Z",
+            "last_commit": "2026-10-12T07:56:35Z",
             "open_issues": 28,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 868,
+            "stars": 869,
             "topics": [
               "jax",
               "python",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T13:34:55.690Z",
+    "last_updated": "2026-10-12T16:11:22.284Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
