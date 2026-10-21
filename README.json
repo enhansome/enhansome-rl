@@ -19,7 +19,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16774,
+            "stars": 16772,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3675,
+            "stars": 3676,
             "topics": [
               "a3c",
               "actor-critic",
@@ -71,7 +71,7 @@
             "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3456,
+            "stars": 3454,
             "topics": [
               "a2c",
               "categorical-dqn",
@@ -377,7 +377,7 @@
                 "open_issues": 3,
                 "owner": "enggen",
                 "repo": "DeepMind-Advanced-Deep-Learning-and-Reinforcement-Learning",
-                "stars": 865,
+                "stars": 864,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:02:30.043Z"
@@ -527,7 +527,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16774,
+            "stars": 16772,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3675,
+            "stars": 3676,
             "topics": [
               "a3c",
               "actor-critic",
@@ -579,7 +579,7 @@
             "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3456,
+            "stars": 3454,
             "topics": [
               "a2c",
               "categorical-dqn",
@@ -802,8 +802,8 @@
             "id": 79821807,
             "language": "Jupyter Notebook",
             "license": "Unlicense",
-            "last_commit": "2026-03-31T20:00:24Z",
-            "open_issues": 44,
+            "last_commit": "2026-10-20T14:29:24Z",
+            "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
             "stars": 6597,
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37240,
+            "stars": 37236,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -889,11 +889,11 @@
             "id": 102904613,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T08:39:28Z",
-            "open_issues": 22,
+            "last_commit": "2026-10-20T17:29:56Z",
+            "open_issues": 20,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19776,
+            "stars": 19778,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -943,7 +943,7 @@
             "open_issues": 68,
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7389,
+            "stars": 7392,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -990,7 +990,7 @@
             "open_issues": 26,
             "owner": "opendilab",
             "repo": "DI-engine",
-            "stars": 3650,
+            "stars": 3648,
             "topics": [
               "atari",
               "distributed-reinforcement-learning",
@@ -1082,7 +1082,7 @@
             "open_issues": 235,
             "owner": "rlworkgroup",
             "repo": "garage",
-            "stars": 2132,
+            "stars": 2131,
             "topics": [
               "pytorch",
               "reproducibility",
@@ -1105,7 +1105,7 @@
             "language": "C++",
             "license": null,
             "last_commit": "2026-10-19T17:37:16Z",
-            "open_issues": 45,
+            "open_issues": 47,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
             "stars": 2101,
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T12:19:34.536Z",
+    "last_updated": "2026-10-21T12:28:51.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 10021,
+      "stars": 10022,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
