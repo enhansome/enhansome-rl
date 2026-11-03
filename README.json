@@ -293,7 +293,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14795,
+                "stars": 14796,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -405,7 +405,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14795,
+                "stars": 14796,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -774,7 +774,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14795,
+                "stars": 14796,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6604,
+            "stars": 6605,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -893,7 +893,7 @@
             "open_issues": 19,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19816,
+            "stars": 19818,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1108,7 +1108,7 @@
             "open_issues": 48,
             "owner": "Farama-Foundation",
             "repo": "ViZDoom",
-            "stars": 2107,
+            "stars": 2108,
             "topics": [
               "deep-learning",
               "doom",
@@ -1192,7 +1192,7 @@
             "open_issues": 5,
             "owner": "kengz",
             "repo": "SLM-Lab",
-            "stars": 1367,
+            "stars": 1366,
             "topics": [
               "a2c",
               "a3c",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T16:36:53.146Z",
+    "last_updated": "2026-11-03T14:41:15.927Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
