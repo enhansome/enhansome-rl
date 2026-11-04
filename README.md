@@ -4,7 +4,7 @@ This page is no longer maintained.
 
 A curated list of resources dedicated to reinforcement learning.
 
-We have pages for other topics: [awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,212 | 🐛 4 | 📅 2022-02-03, [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,192 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,257 | 🐛 3 | 📅 2023-11-16
+We have pages for other topics: [awesome-rnn](https://github.com/kjw0612/awesome-rnn) ⭐ 6,212 | 🐛 4 | 📅 2022-02-03, [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision) ⭐ 11,193 | 🐛 47 | 📅 2023-08-15, [awesome-random-forest](https://github.com/kjw0612/awesome-random-forest) ⭐ 1,257 | 🐛 3 | 📅 2023-11-16
 
 Maintainers: [Hyunsoo Kim](http://sites.duke.edu/hyunsookim/), [Jiwon Kim](http://github.com/kjw0612)
 
@@ -43,7 +43,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
 * [Atari](https://github.com/Kaixhin/Atari) ⭐ 263 | 🐛 15 | 🌐 Lua | 📅 2018-02-08 - Deep Q-networks and asynchronous agents in Torch
 * [Black-DROPS](https://github.com/resibots/blackdrops) ⭐ 65 | 🐛 8 | 🌐 C++ | 📅 2021-11-17 - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
 * Codes for examples and exercises in Richard Sutton and Andrew Barto's Reinforcement Learning: An Introduction
-  * [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,796 | 🐛 22 | 🌐 Python | 📅 2024-08-09
+  * [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,798 | 🐛 22 | 🌐 Python | 📅 2024-08-09
   * [Exercise Solutions](https://github.com/LyWangPX/Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions) ⭐ 2,444 | 🐛 23 | 🌐 Jupyter Notebook | 📅 2025-07-10
   * [Julia Code](https://github.com/Ju-jl/ReinforcementLearningAnIntroduction.jl) ⭐ 332 | 🐛 18 | 🌐 Julia | 📅 2024-03-27
   * [MATLAB Code (BROKEN LINK)](http://waxworksmath.com/Authors/N_Z/Sutton/sutton.html)
@@ -100,7 +100,7 @@ Please feel free to [pull requests](https://github.com/aikorea/awesome-rl/pulls)
 
 ### Books
 
-* Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd Edition, in progress, 2018) [\[Book\]](http://incompleteideas.net/book/RLbook2020.pdf) [\[Code\]](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,796 | 🐛 22 | 🌐 Python | 📅 2024-08-09
+* Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (2nd Edition, in progress, 2018) [\[Book\]](http://incompleteideas.net/book/RLbook2020.pdf) [\[Code\]](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,798 | 🐛 22 | 🌐 Python | 📅 2024-08-09
 * Richard Sutton and Andrew Barto, Reinforcement Learning: An Introduction (1st Edition, 1998) [\[Book\]](http://incompleteideas.net/book/ebook/the-book.html) [\[Code\]](http://incompleteideas.net/book/code/code.html)
 * Csaba Szepesvari, Algorithms for Reinforcement Learning [\[Book\]](http://www.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf)
 * David Poole and Alan Mackworth, Artificial Intelligence: Foundations of Computational Agents [\[Book Chapter\]](http://artint.info/html/ArtInt_262.html)
@@ -224,7 +224,7 @@ Computer Games
 * [Atari](https://github.com/Kaixhin/Atari) ⭐ 263 | 🐛 15 | 🌐 Lua | 📅 2018-02-08 - Deep Q-networks and asynchronous agents in Torch
 * [Black-DROPS](https://github.com/resibots/blackdrops) ⭐ 65 | 🐛 8 | 🌐 C++ | 📅 2021-11-17 - Modular and generic code for the model-based policy search Black-DROPS algorithm (IROS 2017 paper) and easy integration with the [DART](http://dartsim.github.io/) simulator
 * Codes for examples and exercises in Richard Sutton and Andrew Barto's [Book](#books) Reinforcement Learning: An Introduction
-  * [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,796 | 🐛 22 | 🌐 Python | 📅 2024-08-09 (2nd Edition)
+  * [Python Code](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction) ⭐ 14,798 | 🐛 22 | 🌐 Python | 📅 2024-08-09 (2nd Edition)
   * [MATLAB Code](https://waxworksmath.com/Authors/N_Z/Sutton/RLAI_1st_Edition/sutton.html) (1st Edition)
 * Simulation code for Reinforcement Learning Control Problems
   * [Pole-Cart Problem](http://pages.cs.wisc.edu/~finton/poledriver.html)
@@ -282,15 +282,15 @@ Computer Games
 ## Open Source Reinforcement Learning Platforms
 
 * [OpenAI gym](https://github.com/openai/gym) ⚠️ Archived - A toolkit for developing and comparing reinforcement learning algorithms
-* [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,818 | 🐛 19 | 🌐 C# | 📅 2026-10-30 - Create reinforcement learning environments using the Unity Editor
+* [Unity ML Agents](https://github.com/Unity-Technologies/ml-agents) ⭐ 19,817 | 🐛 21 | 🌐 C# | 📅 2026-10-30 - Create reinforcement learning environments using the Unity Editor
 * [OpenAI universe](https://github.com/openai/universe) ⚠️ Archived - A software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications
-* [DeepMind Lab](https://github.com/deepmind/lab) ⭐ 7,392 | 🐛 68 | 🌐 C | 📅 2023-01-04 - A customisable 3D platform for agent-based AI research
+* [DeepMind Lab](https://github.com/deepmind/lab) ⭐ 7,393 | 🐛 68 | 🌐 C | 📅 2023-01-04 - A customisable 3D platform for agent-based AI research
 * [Project Malmo](https://github.com/Microsoft/malmo) ⚠️ Archived - A platform for Artificial Intelligence experimentation and research built on top of Minecraft by Microsoft
-* [DI-engine](https://github.com/opendilab/DI-engine) ⭐ 3,649 | 🐛 26 | 🌐 Python | 📅 2025-12-07 - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
+* [DI-engine](https://github.com/opendilab/DI-engine) ⭐ 3,647 | 🐛 26 | 🌐 Python | 📅 2025-12-07 - DI-engine is a generalized Decision Intelligence engine. It supports most basic deep reinforcement learning (DRL) algorithms, such as DQN, PPO, SAC, and domain-specific algorithms like QMIX in multi-agent RL, GAIL in inverse RL, and RND in exploration problems.
 * [TensorForce](https://github.com/reinforceio/tensorforce) ⭐ 3,303 | 🐛 47 | 🌐 Python | 📅 2026-09-02 - Practical deep reinforcement learning on TensorFlow with Gitter support and OpenAI Gym/Universe/DeepMind Lab integration.
 * [tf-TRFL](https://github.com/deepmind/trfl/) ⭐ 3,130 | 🐛 7 | 🌐 Python | 📅 2022-12-08 - A library built on top of TensorFlow that exposes several useful building blocks for implementing Reinforcement Learning agents.
-* [garage](https://github.com/rlworkgroup/garage) ⭐ 2,130 | 🐛 236 | 🌐 Python | 📅 2023-05-04 - A framework for reproducible reinformcement learning research, fully compatible with OpenAI Gym and DeepMind Control Suite (successor to rllab)
-* [ViZDoom](https://github.com/Marqt/ViZDoom) ⭐ 2,108 | 🐛 48 | 🌐 C++ | 📅 2026-10-29 - Doom-based AI research platform for reinforcement learning from raw visual information
+* [garage](https://github.com/rlworkgroup/garage) ⭐ 2,129 | 🐛 236 | 🌐 Python | 📅 2023-05-04 - A framework for reproducible reinformcement learning research, fully compatible with OpenAI Gym and DeepMind Control Suite (successor to rllab)
+* [ViZDoom](https://github.com/Marqt/ViZDoom) ⭐ 2,109 | 🐛 48 | 🌐 C++ | 📅 2026-10-29 - Doom-based AI research platform for reinforcement learning from raw visual information
 * [MAgent](https://github.com/geek-ai/MAgent) ⭐ 1,764 | 🐛 31 | 🌐 Python | 📅 2022-10-22 - A Platform for Many-agent Reinforcement Learning.
 * [TorchCraft](https://github.com/TorchCraft/TorchCraft) ⚠️ Archived - Connecting Torch to StarCraft
 * [SLM Lab](https://github.com/kengz/SLM-Lab) ⭐ 1,366 | 🐛 5 | 🌐 Python | 📅 2026-10-29 - A research framework for Deep Reinforcement Learning using Unity, OpenAI Gym, PyTorch, Tensorflow.
@@ -313,4 +313,4 @@ Computer Games
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
