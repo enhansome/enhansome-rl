@@ -40,7 +40,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3679,
+            "stars": 3678,
             "topics": [
               "a3c",
               "actor-critic",
@@ -156,10 +156,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T11:43:23Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 876,
+            "stars": 877,
             "topics": [
               "jax",
               "python",
@@ -548,7 +548,7 @@
             "open_issues": 0,
             "owner": "rlcode",
             "repo": "reinforcement-learning",
-            "stars": 3679,
+            "stars": 3678,
             "topics": [
               "a3c",
               "actor-critic",
@@ -664,10 +664,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T11:43:23Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 876,
+            "stars": 877,
             "topics": [
               "jax",
               "python",
@@ -893,7 +893,7 @@
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19840,
+            "stars": 19849,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -1221,10 +1221,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T11:43:23Z",
-            "open_issues": 36,
+            "open_issues": 37,
             "owner": "instadeepai",
             "repo": "jumanji",
-            "stars": 876,
+            "stars": 877,
             "topics": [
               "jax",
               "python",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T13:36:43.991Z",
+    "last_updated": "2026-11-08T13:55:10.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 10032,
+      "stars": 10034,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
