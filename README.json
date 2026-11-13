@@ -19,7 +19,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16778,
+            "stars": 16777,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -71,7 +71,7 @@
             "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3457,
+            "stars": 3456,
             "topics": [
               "a2c",
               "categorical-dqn",
@@ -293,7 +293,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14807,
+                "stars": 14804,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -405,7 +405,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14807,
+                "stars": 14804,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -527,7 +527,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16778,
+            "stars": 16777,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -579,7 +579,7 @@
             "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3457,
+            "stars": 3456,
             "topics": [
               "a2c",
               "categorical-dqn",
@@ -774,7 +774,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14807,
+                "stars": 14804,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6606,
+            "stars": 6611,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -893,7 +893,7 @@
             "open_issues": 21,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19869,
+            "stars": 19871,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -922,7 +922,7 @@
             "open_issues": 0,
             "owner": "openai",
             "repo": "universe",
-            "stars": 7494,
+            "stars": 7492,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T15:37:29.357Z",
+    "last_updated": "2026-11-13T14:56:37.336Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 10041,
+      "stars": 10042,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
