@@ -19,7 +19,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16780,
+            "stars": 16779,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -293,7 +293,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14810,
+                "stars": 14809,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -405,7 +405,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14810,
+                "stars": 14809,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -527,7 +527,7 @@
             "open_issues": 502,
             "owner": "openai",
             "repo": "baselines",
-            "stars": 16780,
+            "stars": 16779,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -774,7 +774,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14810,
+                "stars": 14809,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6621,
+            "stars": 6622,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -889,11 +889,11 @@
             "id": 102904613,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-18T14:49:03Z",
+            "last_commit": "2026-11-19T05:38:09Z",
             "open_issues": 22,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19883,
+            "stars": 19887,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -969,7 +969,7 @@
             "open_issues": 171,
             "owner": "microsoft",
             "repo": "malmo",
-            "stars": 4266,
+            "stars": 4265,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -1079,7 +1079,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2023-05-04T14:44:22Z",
-            "open_issues": 236,
+            "open_issues": 235,
             "owner": "rlworkgroup",
             "repo": "garage",
             "stars": 2129,
@@ -1192,7 +1192,7 @@
             "open_issues": 5,
             "owner": "kengz",
             "repo": "SLM-Lab",
-            "stars": 1366,
+            "stars": 1367,
             "topics": [
               "a2c",
               "a3c",
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T15:59:45.172Z",
+    "last_updated": "2026-11-19T16:06:14.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 10050,
+      "stars": 10051,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
