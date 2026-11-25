@@ -71,7 +71,7 @@
             "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3460,
+            "stars": 3461,
             "topics": [
               "a2c",
               "categorical-dqn",
@@ -293,7 +293,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14817,
+                "stars": 14818,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -317,7 +317,7 @@
                 "open_issues": 23,
                 "owner": "LyWangPX",
                 "repo": "Reinforcement-Learning-2nd-Edition-by-Sutton-Exercise-Solutions",
-                "stars": 2445,
+                "stars": 2446,
                 "topics": [
                   "exercise-solutions",
                   "reinforcement-learning",
@@ -405,7 +405,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14817,
+                "stars": 14818,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -579,7 +579,7 @@
             "open_issues": 8,
             "owner": "ShangtongZhang",
             "repo": "DeepRL",
-            "stars": 3460,
+            "stars": 3461,
             "topics": [
               "a2c",
               "categorical-dqn",
@@ -774,7 +774,7 @@
                 "open_issues": 22,
                 "owner": "ShangtongZhang",
                 "repo": "reinforcement-learning-an-introduction",
-                "stars": 14817,
+                "stars": 14818,
                 "topics": [
                   "artificial-intelligence",
                   "reinforcement-learning"
@@ -806,7 +806,7 @@
             "open_issues": 43,
             "owner": "yandexdataschool",
             "repo": "Practical_RL",
-            "stars": 6621,
+            "stars": 6622,
             "topics": [
               "course-materials",
               "deep-learning",
@@ -872,7 +872,7 @@
             "open_issues": 128,
             "owner": "openai",
             "repo": "gym",
-            "stars": 37234,
+            "stars": 37235,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -893,7 +893,7 @@
             "open_issues": 24,
             "owner": "Unity-Technologies",
             "repo": "ml-agents",
-            "stars": 19890,
+            "stars": 19892,
             "topics": [
               "deep-learning",
               "deep-reinforcement-learning",
@@ -922,7 +922,7 @@
             "open_issues": 0,
             "owner": "openai",
             "repo": "universe",
-            "stars": 7488,
+            "stars": 7486,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -943,7 +943,7 @@
             "open_issues": 69,
             "owner": "google-deepmind",
             "repo": "lab",
-            "stars": 7395,
+            "stars": 7394,
             "topics": [
               "artificial-intelligence",
               "deep-learning",
@@ -986,8 +986,8 @@
             "id": 382787545,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2025-12-07T09:44:53Z",
-            "open_issues": 26,
+            "last_commit": "2026-11-25T06:51:03Z",
+            "open_issues": 27,
             "owner": "opendilab",
             "repo": "DI-engine",
             "stars": 3646,
@@ -1061,7 +1061,7 @@
             "open_issues": 7,
             "owner": "google-deepmind",
             "repo": "trfl",
-            "stars": 3130,
+            "stars": 3129,
             "topics": []
           },
           "first_seen": "2026-08-28T19:02:30.043Z"
@@ -1360,7 +1360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T18:23:43.452Z",
+    "last_updated": "2026-11-25T17:39:32.737Z",
     "original_repository_info": {
       "archived": false,
       "description": "Reinforcement learning resources curated",
@@ -1372,7 +1372,7 @@
       "open_issues": 7,
       "owner": "aikorea",
       "repo": "awesome-rl",
-      "stars": 10052,
+      "stars": 10054,
       "topics": []
     },
     "original_repository_sha": "774cb664531bb5faecbfe107accab5b648cd457d",
